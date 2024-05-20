@@ -1,0 +1,30 @@
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+  "name": "example"
+}
+
+# 08dc78fe-59a9-4751-80b4-fab31c873985
+###
+POST http://localhost:3000/products/08dc78fe-59a9-4751-80b4-fab31c873985/members
+Content-Type: application/json
+
+{
+  "emails": ["paulo.rios@grupoboticario.com.br"],
+  "permission": "Administrators"
+}
+
+###
+GET http://localhost:3000/products
+
+###
+GET http://localhost:3000/products
+Content-Type: application/json
+
+{
+  "search": "example"
+}
+
+###
+GET http://localhost:3000/products/08dc78fe-59a9-4751-80b4-fab31c873985/permissions
