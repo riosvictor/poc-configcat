@@ -1,0 +1,1018 @@
+[
+  {
+    "name": "loucasporbeleza",
+    "url": "https://github.com/belezanaweb/loucasporbeleza",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice",
+    "url": "https://github.com/belezanaweb/backoffice",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "belezanaweb-store",
+    "url": "https://github.com/belezanaweb/belezanaweb-store",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "checkout-store",
+    "url": "https://github.com/belezanaweb/checkout-store",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "menu",
+    "url": "https://github.com/belezanaweb/menu",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "pr-notification",
+    "url": "https://github.com/belezanaweb/pr-notification",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "datawarehouse",
+    "url": "https://github.com/belezanaweb/datawarehouse",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "product-image",
+    "url": "https://github.com/belezanaweb/product-image",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "seller",
+    "url": "https://github.com/belezanaweb/seller",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "partner-crm",
+    "url": "https://github.com/belezanaweb/partner-crm",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "meurastreio",
+    "url": "https://github.com/belezanaweb/meurastreio",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "geolocation",
+    "url": "https://github.com/belezanaweb/geolocation",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "graphql",
+    "url": "https://github.com/belezanaweb/graphql",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "account-store",
+    "url": "https://github.com/belezanaweb/account-store",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "critical-css-serverless",
+    "url": "https://github.com/belezanaweb/critical-css-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "serpro",
+    "url": "https://github.com/belezanaweb/serpro",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "sonar.projectName=${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "template-node-fastify-dynamodb",
+    "url": "https://github.com/belezanaweb/template-node-fastify-dynamodb",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "cms",
+    "url": "https://github.com/belezanaweb/cms",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "quiz-serverless",
+    "url": "https://github.com/belezanaweb/quiz-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "quiz-serverless"
+    }
+  },
+  {
+    "name": "backoffice-cms",
+    "url": "https://github.com/belezanaweb/backoffice-cms",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "template-react-cra",
+    "url": "https://github.com/belezanaweb/template-react-cra",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "affiliate",
+    "url": "https://github.com/belezanaweb/affiliate",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "stories",
+    "url": "https://github.com/belezanaweb/stories",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "template-react-module-federation",
+    "url": "https://github.com/belezanaweb/template-react-module-federation",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "search",
+    "url": "https://github.com/belezanaweb/search",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_elasticsearch"
+    }
+  },
+  {
+    "name": "marketplace-graphql",
+    "url": "https://github.com/belezanaweb/marketplace-graphql",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "core-chatbot",
+    "url": "https://github.com/belezanaweb/core-chatbot",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mfe-occurrence",
+    "url": "https://github.com/belezanaweb/backoffice-mfe-occurrence",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "recommendations-serverless",
+    "url": "https://github.com/belezanaweb/recommendations-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "belezanaweb_recommendations-serverless"
+    }
+  },
+  {
+    "name": "marketplace-mf-container",
+    "url": "https://github.com/belezanaweb/marketplace-mf-container",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "dynamodb-cdc",
+    "url": "https://github.com/belezanaweb/dynamodb-cdc",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-audit",
+    "url": "https://github.com/belezanaweb/backoffice-audit",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-review",
+    "url": "https://github.com/belezanaweb/backoffice-mf-review",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-mf-customer-support",
+    "url": "https://github.com/belezanaweb/marketplace-mf-customer-support",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-components",
+    "url": "https://github.com/belezanaweb/marketplace-components",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "partner-integration",
+    "url": "https://github.com/belezanaweb/partner-integration",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "postgres-cdc",
+    "url": "https://github.com/belezanaweb/postgres-cdc",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "logistic-plataform-transport-serverless",
+    "url": "https://github.com/belezanaweb/logistic-plataform-transport-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "affiliate-store",
+    "url": "https://github.com/belezanaweb/affiliate-store",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "qldb-cdc",
+    "url": "https://github.com/belezanaweb/qldb-cdc",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "mongodb-cdc",
+    "url": "https://github.com/belezanaweb/mongodb-cdc",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "auth-store",
+    "url": "https://github.com/belezanaweb/auth-store",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-mf-logistics",
+    "url": "https://github.com/belezanaweb/marketplace-mf-logistics",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-seller-leads",
+    "url": "https://github.com/belezanaweb/backoffice-mf-seller-leads",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-mf-order",
+    "url": "https://github.com/belezanaweb/marketplace-mf-order",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-mf-product",
+    "url": "https://github.com/belezanaweb/marketplace-mf-product",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "template-typescript-serverless",
+    "url": "https://github.com/belezanaweb/template-typescript-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "info-bank-service",
+    "url": "https://github.com/belezanaweb/info-bank-service",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "seller-lead-front",
+    "url": "https://github.com/belezanaweb/seller-lead-front",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "inventory-integration-serverless",
+    "url": "https://github.com/belezanaweb/inventory-integration-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "nethone",
+    "url": "https://github.com/belezanaweb/nethone",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-marketplace-in",
+    "url": "https://github.com/belezanaweb/backoffice-mf-marketplace-in",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "order-integration-serverless",
+    "url": "https://github.com/belezanaweb/order-integration-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mfe-tms-reports",
+    "url": "https://github.com/belezanaweb/backoffice-mfe-tms-reports",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-giftable",
+    "url": "https://github.com/belezanaweb/backoffice-giftable",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "notification-templates-serverless",
+    "url": "https://github.com/belezanaweb/notification-templates-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "bseller-serverless",
+    "url": "https://github.com/belezanaweb/bseller-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "invoice-integration-serverless",
+    "url": "https://github.com/belezanaweb/invoice-integration-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "omni-airflow-order-report-notification",
+    "url": "https://github.com/belezanaweb/omni-airflow-order-report-notification",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "physical-store-integration",
+    "url": "https://github.com/belezanaweb/physical-store-integration",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "blzto-serverless",
+    "url": "https://github.com/belezanaweb/blzto-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "anti-fraud-analyze-manager",
+    "url": "https://github.com/belezanaweb/anti-fraud-analyze-manager",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "app-consumidor",
+    "url": "https://github.com/belezanaweb/app-consumidor",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "data-exporter-serverless",
+    "url": "https://github.com/belezanaweb/data-exporter-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mfe-marketplace-out",
+    "url": "https://github.com/belezanaweb/backoffice-mfe-marketplace-out",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-mf-brand",
+    "url": "https://github.com/belezanaweb/marketplace-mf-brand",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "invoice-file",
+    "url": "https://github.com/belezanaweb/invoice-file",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-mf-financial",
+    "url": "https://github.com/belezanaweb/marketplace-mf-financial",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "omni-inventory",
+    "url": "https://github.com/belezanaweb/omni-inventory",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-mf-coupon",
+    "url": "https://github.com/belezanaweb/marketplace-mf-coupon",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "faq-store",
+    "url": "https://github.com/belezanaweb/faq-store",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "compliance-analyze-manager",
+    "url": "https://github.com/belezanaweb/compliance-analyze-manager",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-antifraud",
+    "url": "https://github.com/belezanaweb/backoffice-mf-antifraud",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-offer",
+    "url": "https://github.com/belezanaweb/backoffice-mf-offer",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-brand",
+    "url": "https://github.com/belezanaweb/backoffice-mf-brand",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-mf-lead-contract",
+    "url": "https://github.com/belezanaweb/marketplace-mf-lead-contract",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "faq",
+    "url": "https://github.com/belezanaweb/faq",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-mf-seller-support",
+    "url": "https://github.com/belezanaweb/marketplace-mf-seller-support",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "seller-lead-schedule-notification",
+    "url": "https://github.com/belezanaweb/seller-lead-schedule-notification",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "ecomm-mockoon-serverless",
+    "url": "https://github.com/belezanaweb/ecomm-mockoon-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-notification-templates",
+    "url": "https://github.com/belezanaweb/backoffice-mf-notification-templates",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "pdi-scheduler-serverless",
+    "url": "https://github.com/belezanaweb/pdi-scheduler-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-orders-resync",
+    "url": "https://github.com/belezanaweb/marketplace-orders-resync",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "event",
+    "url": "https://github.com/belezanaweb/event",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "hercode-front",
+    "url": "https://github.com/belezanaweb/hercode-front",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-physical-store",
+    "url": "https://github.com/belezanaweb/backoffice-mf-physical-store",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-marketplace-notifications",
+    "url": "https://github.com/belezanaweb/backoffice-mf-marketplace-notifications",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-openapi-cms",
+    "url": "https://github.com/belezanaweb/marketplace-openapi-cms",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-price",
+    "url": "https://github.com/belezanaweb/backoffice-mf-price",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-freight-contingency",
+    "url": "https://github.com/belezanaweb/backoffice-mf-freight-contingency",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "affiliate-financial",
+    "url": "https://github.com/belezanaweb/affiliate-financial",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "omni-dlq-monitor-frontend",
+    "url": "https://github.com/belezanaweb/omni-dlq-monitor-frontend",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "financial-monitor",
+    "url": "https://github.com/belezanaweb/financial-monitor",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "correios-tracking-serverless",
+    "url": "https://github.com/belezanaweb/correios-tracking-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-affiliate",
+    "url": "https://github.com/belezanaweb/backoffice-mf-affiliate",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "pdv-fixo-loja-fisica",
+    "url": "https://github.com/belezanaweb/pdv-fixo-loja-fisica",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "affiliate-invoice-validation-serverless",
+    "url": "https://github.com/belezanaweb/affiliate-invoice-validation-serverless",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-openapi-doc",
+    "url": "https://github.com/belezanaweb/marketplace-openapi-doc",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-moderation-seller-coupons",
+    "url": "https://github.com/belezanaweb/backoffice-mf-moderation-seller-coupons",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "template-react-next",
+    "url": "https://github.com/belezanaweb/template-react-next",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-file-manager",
+    "url": "https://github.com/belezanaweb/marketplace-file-manager",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "marketplace-mf-reputation",
+    "url": "https://github.com/belezanaweb/marketplace-mf-reputation",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "martech-local-inventory",
+    "url": "https://github.com/belezanaweb/martech-local-inventory",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-marketplace-knowledge-base",
+    "url": "https://github.com/belezanaweb/backoffice-mf-marketplace-knowledge-base",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-costbook",
+    "url": "https://github.com/belezanaweb/backoffice-mf-costbook",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-product",
+    "url": "https://github.com/belezanaweb/backoffice-mf-product",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "flora-vanilla",
+    "url": "https://github.com/belezanaweb/flora-vanilla",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "mfe-omni-order-monitor",
+    "url": "https://github.com/belezanaweb/mfe-omni-order-monitor",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "ecomm-faturamento-mono-multi-cubescan-sap-proxy",
+    "url": "https://github.com/belezanaweb/ecomm-faturamento-mono-multi-cubescan-sap-proxy",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-supplier-portal",
+    "url": "https://github.com/belezanaweb/backoffice-mf-supplier-portal",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "presentear-frontend",
+    "url": "https://github.com/belezanaweb/presentear-frontend",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-integration",
+    "url": "https://github.com/belezanaweb/backoffice-mf-integration",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-search",
+    "url": "https://github.com/belezanaweb/backoffice-mf-search",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "load-tests",
+    "url": "https://github.com/belezanaweb/load-tests",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "qachampions-poc-collections",
+    "url": "https://github.com/belezanaweb/qachampions-poc-collections",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "app-beleza-mais",
+    "url": "https://github.com/belezanaweb/app-beleza-mais",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  },
+  {
+    "name": "backoffice-mf-working-days-calendar",
+    "url": "https://github.com/belezanaweb/backoffice-mf-working-days-calendar",
+    "sonar": {
+      "organization": "belezanaweb",
+      "projectKey": "${env.GITHUB_REPOSITORY_OWNER_PART}_${env.GITHUB_REPOSITORY_NAME_PART}",
+      "projectName": "${env.GITHUB_REPOSITORY_NAME_PART}"
+    }
+  }
+]

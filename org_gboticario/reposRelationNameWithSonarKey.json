@@ -1,0 +1,664 @@
+[
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "dea-gdem-agc-gcam-event-consumer-worker",
+      "name": "agc-gcam-event-consumer-worker",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2023-12-14T21:06:13+0100",
+      "revision": "5cc39a3668e67fb706a62c73f2aed20be48af812"
+    },
+    "repo": {
+      "name": "dea-gdem-agc-gcam-event-consumer-worker",
+      "description": "Responsável por consumir eventos corporativos do GDEM/AGC para o GCAM",
+      "url": "https://github.com/grupoboticario/dea-gdem-agc-gcam-event-consumer-worker",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "dea-gdem-agc-gcam-event-producer-api",
+      "name": "agc-gcam-event-producer-api",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2023-12-15T12:52:58+0100",
+      "revision": "420a7f7a5c429c81115ad649ed28ccf1cc7d6f6d"
+    },
+    "repo": {
+      "name": "dea-gdem-agc-gcam-event-producer-api",
+      "description": "Responsável por produzir eventos corporativos do GDEM/AGC para consumo por aplicações do Grupo Boticário",
+      "url": "https://github.com/grupoboticario/dea-gdem-agc-gcam-event-producer-api",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "alquimia-template-docker",
+      "name": "alquimia-template-docker",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2024-06-24T21:34:49+0200",
+      "revision": "a326d3a0d12af99e379d95581ae65a804eecc0fa"
+    },
+    "repo": {
+      "name": "alquimia-template-docker",
+      "description": "Template genérico para aplicações utilizando docker via plataforma de desenvolvimento",
+      "url": "https://github.com/grupoboticario/alquimia-template-docker",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "arq-green-it-carbon-monitoring-sample-pipeline",
+      "name": "arq-green-it-carbon-monitoring-sample-pipeline",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "arq-green-it-carbon-monitoring-sample-pipeline",
+      "description": "Componente com exemplo de uso/aplicação da Carbon Monitoring Action",
+      "url": "https://github.com/grupoboticario/arq-green-it-carbon-monitoring-sample-pipeline",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "arq-green-it-kepler",
+      "name": "arq-green-it-kepler",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "arq-green-it-kepler",
+      "description": "Kepler",
+      "url": "https://github.com/grupoboticario/arq-green-it-kepler",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "clickgb-gateway",
+      "name": "clickgb-gateway",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "clickgb-gateway",
+      "description": "Apigateway para o click GB",
+      "url": "https://github.com/grupoboticario/clickgb-gateway",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "cons-be-accessible-be-accessible-mobile",
+      "name": "cons-be-accessible-be-accessible-mobile",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "cons-be-accessible-be-accessible-mobile",
+      "description": "App do BeAccessible feito para reconhecer produtos",
+      "url": "https://github.com/grupoboticario/cons-be-accessible-be-accessible-mobile",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "data-arq-arquitetura-de-dados-dataplat-microservices-doc",
+      "name": "data-arq-arquitetura-de-dados-dataplat-microservices-doc",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "data-arq-arquitetura-de-dados-dataplat-microservices-doc",
+      "description": "Table documentation microservice for Grupo Boticário data platform. Provides an API to access and manage table documentation.",
+      "url": "https://github.com/grupoboticario/data-arq-arquitetura-de-dados-dataplat-microservices-doc",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "dea-gdem-inter-backend-service-inter",
+      "name": "dea-gdem-inter-backend-service-inter",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2024-05-28T22:13:02+0200",
+      "revision": "14670895596547f7a2c415c36bce1e749bef6016"
+    },
+    "repo": {
+      "name": "dea-gdem-inter-backend-service-inter",
+      "description": "Backend do GDEM Internacional",
+      "url": "https://github.com/grupoboticario/dea-gdem-inter-backend-service-inter",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "dea-oms-lifecycle-log-tracing",
+      "name": "dea-oms-lifecycle-log-tracing",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2022-08-19T16:53:21+0200",
+      "revision": "abd4e42ac119b85258a9e95ff83f9a5543a93c43"
+    },
+    "repo": {
+      "name": "dea-oms-lifecycle-log-tracing",
+      "description": "Library to log order lifecycle steps",
+      "url": "https://github.com/grupoboticario/dea-oms-lifecycle-log-tracing",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "ecomm-devops-stress-tests",
+      "name": "ecomm-devops-stress-tests",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "ecomm-devops-stress-tests",
+      "description": "Repositório com testes de estresse da Vs Ecommerce",
+      "url": "https://github.com/grupoboticario/ecomm-devops-stress-tests",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "finlegal-condpag-new-backend-api",
+      "name": "finlegal-condpag-new-backend-api",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "finlegal-condpag-new-backend-api",
+      "description": "processa todas as solicitações do front",
+      "url": "https://github.com/grupoboticario/finlegal-condpag-new-backend-api",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "finlegal-finance-platform-boletos-b2b-frontend",
+      "name": "finlegal-finance-platform-boletos-b2b-frontend",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "finlegal-finance-platform-boletos-b2b-frontend",
+      "description": "Produto que vai integrar com o Conecta B2B (portal que o cliente B2B acessa para serviços do GB) para consulta de boletos.",
+      "url": "https://github.com/grupoboticario/finlegal-finance-platform-boletos-b2b-frontend",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "franchising-colabore-file-integration",
+      "name": "franchising-colabore-file-integration",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2023-03-31T02:09:27+0200",
+      "revision": "0a4e89c832e8be399ba35deb3f48a8ca2d38ba05"
+    },
+    "repo": {
+      "name": "franchising-colabore-file-integration",
+      "description": "Servless to watch colabore files and publish",
+      "url": "https://github.com/grupoboticario/franchising-colabore-file-integration",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "franchising-nfce-hana-integration-consumer",
+      "name": "franchising-nfce-hana-integration-consumer",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2022-10-03T20:26:15+0200",
+      "revision": "aa3efd509dc91bcefd5c9296e4c56482b3fbe47c"
+    },
+    "repo": {
+      "name": "franchising-nfce-hana-integration-consumer",
+      "description": "franchising nfce hana integration consumer",
+      "url": "https://github.com/grupoboticario/franchising-nfce-hana-integration-consumer",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "franq-integration-hub-mobile-app",
+      "name": "franq-integration-hub-mobile-app",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "franq-integration-hub-mobile-app",
+      "description": "Aplicativo para dispositivos móveis, utilizado pelas pessoas consultoras das lojas, com o objetivo de unificar e integrar as soluções necessárias na jornada de atendimento",
+      "url": "https://github.com/grupoboticario/franq-integration-hub-mobile-app",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "franq-sales-integration-hde-pubsub-connect",
+      "name": "franq-sales-integration-hde-pubsub-connect",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2023-12-21T22:13:05+0100",
+      "revision": "94f92198b4ae404820b02bb857f0d6b47559210a"
+    },
+    "repo": {
+      "name": "franq-sales-integration-hde-pubsub-connect",
+      "description": "Component responsible for get franchising sales kafka topic data and publish into a pubsub topic",
+      "url": "https://github.com/grupoboticario/franq-sales-integration-hde-pubsub-connect",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "franq-varejo-facil-tf-aws-project-varejofacil-database-resources",
+      "name": "franq-varejo-facil-tf-aws-project-varejofacil-database-resources",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "franq-varejo-facil-tf-aws-project-varejofacil-database-resources",
+      "description": "Componente para criação de Bases de dados para o varejofacil",
+      "url": "https://github.com/grupoboticario/franq-varejo-facil-tf-aws-project-varejofacil-database-resources",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "vd-sellout-minhaloja-frontend-scripts",
+      "name": "minhaloja-frontend-scripts",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2022-10-25T01:46:18+0200",
+      "revision": "19acd27acc566bed00e17999e0711dff5c1a5689"
+    },
+    "repo": {
+      "name": "vd-sellout-minhaloja-frontend-scripts",
+      "description": "Scripts para o time de Front-end da área de Venda Direta",
+      "url": "https://github.com/grupoboticario/vd-sellout-minhaloja-frontend-scripts",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "mrd-financial-services-api",
+      "name": "mrd-financial-services-api",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2023-02-23T20:47:10+0100",
+      "revision": "9e387601ccd736bb226be93e1a493a269bc6389e"
+    },
+    "repo": {
+      "name": "mrd-financial-services-api",
+      "description": "Microsserviço com o objetivo de fornecer gestão dos serviços financeiros (BaaS) na Minha Revenda Digital.",
+      "url": "https://github.com/grupoboticario/mrd-financial-services-api",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "mrd-financial-services-serverless",
+      "name": "mrd-financial-services-serverless",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2022-12-09T14:53:29+0100",
+      "revision": "9fe99cbafd418d367397ab484ccb15d0f92bc6d5"
+    },
+    "repo": {
+      "name": "mrd-financial-services-serverless",
+      "description": "Funções lambdas para rotinas relacionadas aos serviços financeiros na Minha Revenda Digital.",
+      "url": "https://github.com/grupoboticario/mrd-financial-services-serverless",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "mrd-hub-consumer-workers",
+      "name": "mrd-hub-consumer-workers",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2022-12-15T14:59:27+0100",
+      "revision": "9693b96f405970254d625ac42638d9d593331733"
+    },
+    "repo": {
+      "name": "mrd-hub-consumer-workers",
+      "description": "Monorepo para workers consumidores do hub de eventos para a Minha Revenda Digital",
+      "url": "https://github.com/grupoboticario/mrd-hub-consumer-workers",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "mrd-users-serverless",
+      "name": "mrd-users-serverless",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2023-04-05T20:01:05+0200",
+      "revision": "3ec3c2d1769ef7b235788f5963846373962283d6"
+    },
+    "repo": {
+      "name": "mrd-users-serverless",
+      "description": "Repositório para lambdas direcionadas a ações sobre usuários da Minha Revenda Digital",
+      "url": "https://github.com/grupoboticario/mrd-users-serverless",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "mrd-webhooks-api",
+      "name": "mrd-webhooks-api",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2023-02-10T15:25:39+0100",
+      "revision": "4778f8ac854369e8505cd5150ce6197f621dd873"
+    },
+    "repo": {
+      "name": "mrd-webhooks-api",
+      "description": "Monorepo para exposição individual de webhooks da Minha Revenda Digital",
+      "url": "https://github.com/grupoboticario/mrd-webhooks-api",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "alquimia-template-typescript",
+      "name": "pdd-template-typescript",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "alquimia-template-typescript",
+      "description": "Template utilizando typescript",
+      "url": "https://github.com/grupoboticario/alquimia-template-typescript",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "pf-moozbox-niquel-lib",
+      "name": "pf-moozbox-niquel-lib",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "pf-moozbox-niquel-lib",
+      "description": "Lib de Componentes dos Microfrontends do Níquel",
+      "url": "https://github.com/grupoboticario/pf-moozbox-niquel-lib",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "plat-dados-dataplat-products-chatgb-ia-day",
+      "name": "plat-dados-dataplat-products-chatgb-ia-day",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "plat-dados-dataplat-products-chatgb-ia-day",
+      "description": "Deploy para demo do GB AI no IA Day",
+      "url": "https://github.com/grupoboticario/plat-dados-dataplat-products-chatgb-ia-day",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "pl-plataforma-logistica-pl-plataforma-logistica-pl-shipping-prices-engine-contracts",
+      "name": "pl-plataforma-logistica-pl-plataforma-logistica-pl-shipping-prices-engine-contracts",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2023-01-19T18:45:47+0100",
+      "revision": "223edf60515c14e7f810a88bbea57be36c3c13b8"
+    },
+    "repo": {
+      "name": "pl-plataforma-logistica-pl-plataforma-logistica-pl-shipping-prices-engine-contracts",
+      "description": "This project creates the contract control module, which manages the excel files sent and the active routes of the carriers",
+      "url": "https://github.com/grupoboticario/pl-plataforma-logistica-pl-plataforma-logistica-pl-shipping-prices-engine-contracts",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "portal-inicios-colombia-back",
+      "name": "portal-inicios-colombia-back",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2022-11-28T13:20:07+0100",
+      "revision": "91bc8ac501e490dfddfbd8232c7240b162e3b12f"
+    },
+    "repo": {
+      "name": "portal-inicios-colombia-back",
+      "description": "Banckend da landing page para cadastro de intenção de revenda na Colombia",
+      "url": "https://github.com/grupoboticario/portal-inicios-colombia-back",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "prodfin-banking-actions-deploy-notification-poc",
+      "name": "prodfin-banking-actions-deploy-notification-poc",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "prodfin-banking-actions-deploy-notification-poc",
+      "description": "GitHub Action for deploy notification on slack",
+      "url": "https://github.com/grupoboticario/prodfin-banking-actions-deploy-notification-poc",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "prodfin-servicos-financeiros-logging",
+      "name": "prodfin-servicos-financeiros-logging",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "prodfin-servicos-financeiros-logging",
+      "description": "Lib de logging para plataforma",
+      "url": "https://github.com/grupoboticario/prodfin-servicos-financeiros-logging",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "rpa-rpa-ch-tecnologia-it-template-multifuncional-disp",
+      "name": "rpa-rpa-ch-tecnologia-it-template-multifuncional-disp",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "rpa-rpa-ch-tecnologia-it-template-multifuncional-disp",
+      "description": "Template do dispatcher do multifuncional.",
+      "url": "https://github.com/grupoboticario/rpa-rpa-ch-tecnologia-it-template-multifuncional-disp",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "demaba-oms-schema-registry",
+      "name": "schema-registry",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2022-05-25T22:16:31+0200",
+      "revision": "c40400a1069c0c24cacd02a257432aa5fe0949c4"
+    },
+    "repo": {
+      "name": "demaba-oms-schema-registry",
+      "description": "Schema registry para os contratos do OMS",
+      "url": "https://github.com/grupoboticario/demaba-oms-schema-registry",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "si-botty-pocn8n",
+      "name": "si-botty-pocn8n",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "si-botty-pocn8n",
+      "description": "poc do n8n para automações",
+      "url": "https://github.com/grupoboticario/si-botty-pocn8n",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "si-gandalf-sync-issues",
+      "name": "si-gandalf-sync-issues",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "si-gandalf-sync-issues",
+      "description": "lambda para criação de issue no github",
+      "url": "https://github.com/grupoboticario/si-gandalf-sync-issues",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "template-nextjs",
+      "name": "template-nextjs",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2022-09-27T15:43:37+0200",
+      "revision": "e404e5564229bb816416e704e6b8442c10b3d352"
+    },
+    "repo": {
+      "name": "template-nextjs",
+      "description": "Template Nextjs - JS version",
+      "url": "https://github.com/grupoboticario/template-nextjs",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "template-typescript-nextjs",
+      "name": "template-typescript-nextjs",
+      "qualifier": "TRK",
+      "visibility": "private",
+      "lastAnalysisDate": "2023-07-27T19:28:28+0200",
+      "revision": "3f7b5aba72c72b708855a57ad4048005d6c8061b"
+    },
+    "repo": {
+      "name": "template-typescript-nextjs",
+      "description": "Nextjs template with typescript",
+      "url": "https://github.com/grupoboticario/template-typescript-nextjs",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "vd-brand-api",
+      "name": "vd-brand-api",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "vd-brand-api",
+      "description": null,
+      "url": "https://github.com/grupoboticario/vd-brand-api",
+      "archived": true,
+      "disabled": false
+    }
+  },
+  {
+    "sonar": {
+      "organization": "gboticario",
+      "key": "vd-cart-create-order-service",
+      "name": "vd-cart-create-order-service",
+      "qualifier": "TRK",
+      "visibility": "private"
+    },
+    "repo": {
+      "name": "vd-cart-create-order-service",
+      "description": "VD Cart Create Order Service",
+      "url": "https://github.com/grupoboticario/vd-cart-create-order-service",
+      "archived": true,
+      "disabled": false
+    }
+  }
+]

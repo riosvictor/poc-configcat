@@ -1,0 +1,11 @@
+[
+  {
+    "name": "appsecteste",
+    "url": "https://github.com/gbgera/appsecteste",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.sonarProjectId}}",
+      "projectName": "{{parameters.sonarProjectId}}"
+    }
+  }
+]

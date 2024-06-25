@@ -1,0 +1,3199 @@
+[
+  {
+    "name": "superapp_backend",
+    "url": "https://github.com/grupoboticario/superapp_backend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "c70b91ff-8ffc-445b-baff-3639bb8eb9ea",
+      "projectName": "GHE_MinhaRevenda_Backend"
+    }
+  },
+  {
+    "name": "catalogodigital_backend",
+    "url": "https://github.com/grupoboticario/catalogodigital_backend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "d55b6b50-4389-11ea-b77f-2e728ce88125",
+      "projectName": "GHE_CatalogoDigital_Backend"
+    }
+  },
+  {
+    "name": "action-register-change",
+    "url": "https://github.com/grupoboticario/action-register-change",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "9fd91033-6843-4292-8269-8d864ee61d56",
+      "projectName": "GHE_ActionRegisterChange"
+    }
+  },
+  {
+    "name": "thor_proxy_api",
+    "url": "https://github.com/grupoboticario/thor_proxy_api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": "GHE_EncontreBoti_API"
+    }
+  },
+  {
+    "name": "vd-cycle-api",
+    "url": "https://github.com/grupoboticario/vd-cycle-api",
+    "sonar": {
+      "organization": "gboticario"
+    }
+  },
+  {
+    "name": "vd-jaime-api",
+    "url": "https://github.com/grupoboticario/vd-jaime-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "59af941b-cdaa-4ded-a08a-3bf5e69512e6",
+      "projectName": "GHE_MinhaLoja_JaimeAPI"
+    }
+  },
+  {
+    "name": "vd-api-login",
+    "url": "https://github.com/grupoboticario/vd-api-login",
+    "sonar": {
+      "organization": "gboticario"
+    }
+  },
+  {
+    "name": "csf_chamados_serverless",
+    "url": "https://github.com/grupoboticario/csf_chamados_serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "5edff17f-e143-4468-a0dc-d27adb926f4e",
+      "projectName": "GHE_CSFChamados_Serverless"
+    }
+  },
+  {
+    "name": "mooz-ni-financial-documents",
+    "url": "https://github.com/grupoboticario/mooz-ni-financial-documents",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "00000000-0000-0000-0000-000000000000",
+      "projectName": "mooznifinancialdocuments"
+    }
+  },
+  {
+    "name": "pf-banco-digital-api",
+    "url": "https://github.com/grupoboticario/pf-banco-digital-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "62825184-62b6-4ced-998b-a8fce4f75383",
+      "projectName": "GHE_pf-banco-digital-api"
+    }
+  },
+  {
+    "name": "template-node-fastify-dynamodb",
+    "url": "https://github.com/grupoboticario/template-node-fastify-dynamodb",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "b720d0ac-e415-4a58-8c6d-27c1d8cd387c",
+      "projectName": "template-node-fastify-dynamodb"
+    }
+  },
+  {
+    "name": "pf-camara-compensacao-api",
+    "url": "https://github.com/grupoboticario/pf-camara-compensacao-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "84535ca7-a595-461a-81a8-4c914a31e4a2",
+      "projectName": "GHE_pf-camara-compensacao-api"
+    }
+  },
+  {
+    "name": "vd-offer-workers",
+    "url": "https://github.com/grupoboticario/vd-offer-workers",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "6328cd71-148f-432c-a6f7-42b2bdff9816"
+    }
+  },
+  {
+    "name": "template-nextjs",
+    "url": "https://github.com/grupoboticario/template-nextjs",
+    "sonar": {
+      "organization": "gboticario"
+    }
+  },
+  {
+    "name": "loyalty-landing-whatsapp",
+    "url": "https://github.com/grupoboticario/loyalty-landing-whatsapp",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "51359307-fd82-4017-ae18-d861b9a492b6",
+      "projectName": "loyalty-landing-whatsapp"
+    }
+  },
+  {
+    "name": "vd-business-unit-cycle-api",
+    "url": "https://github.com/grupoboticario/vd-business-unit-cycle-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "00000000-0000-0000-0000-000000000000",
+      "projectName": "cycle_api"
+    }
+  },
+  {
+    "name": "loyalty-rule-job",
+    "url": "https://github.com/grupoboticario/loyalty-rule-job",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "51d9fdf0-1693-4683-bd62-aead3ce332a5",
+      "projectName": "loyalty-rule-job"
+    }
+  },
+  {
+    "name": "vd-interativa-client",
+    "url": "https://github.com/grupoboticario/vd-interativa-client",
+    "sonar": {
+      "projectKey": "5b4fb67f-d07f-48f1-a583-de9518c272c5",
+      "projectName": "GHE_vd-interativa-client"
+    }
+  },
+  {
+    "name": "demo-porter",
+    "url": "https://github.com/grupoboticario/demo-porter",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "00000000-0000-0000-0000-000000000000",
+      "projectName": "demo_porter"
+    }
+  },
+  {
+    "name": "template-node-serverless",
+    "url": "https://github.com/grupoboticario/template-node-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "pgi-backend-serverless",
+    "url": "https://github.com/grupoboticario/pgi-backend-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "pgi-backend-serverless",
+      "projectName": "PGI-Backend-Serverless"
+    }
+  },
+  {
+    "name": "vd-inventory",
+    "url": "https://github.com/grupoboticario/vd-inventory",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "b504f107-2525-4bbd-86d6-2e60aa620afe",
+      "projectName": "GHE_vd-inventory"
+    }
+  },
+  {
+    "name": "loja-digital-wapp-router",
+    "url": "https://github.com/grupoboticario/loja-digital-wapp-router",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "5cd726a1-9219-4177-8df5-557380e19306",
+      "projectName": "GHE_loja-digital-wapp-router"
+    }
+  },
+  {
+    "name": "pf-moozbox-nucleo-bancario-api",
+    "url": "https://github.com/grupoboticario/pf-moozbox-nucleo-bancario-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "2a9306d1-80cd-49be-9cdc-565bd211eaf5",
+      "projectName": "pf-moozbox-nucleo-bancario-api"
+    }
+  },
+  {
+    "name": "direct-sale-credit-analysis-integration-api",
+    "url": "https://github.com/grupoboticario/direct-sale-credit-analysis-integration-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "grupoboticario_direct-sale-credit-analysis-integration-api",
+      "projectName": "GHE_direct-sale-credit-analysis-integration-api"
+    }
+  },
+  {
+    "name": "helpcenter-customerhelpdesk-serverless-api",
+    "url": "https://github.com/grupoboticario/helpcenter-customerhelpdesk-serverless-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "vd-girafales-api",
+    "url": "https://github.com/grupoboticario/vd-girafales-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "9c8f78cc-8f64-415f-bd0a-5a8cda6a0460",
+      "projectName": "GHE_vd-girafales-api"
+    }
+  },
+  {
+    "name": "alquimia-template-docker",
+    "url": "https://github.com/grupoboticario/alquimia-template-docker",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "helpcenter-ms-franchise-serverless-api",
+    "url": "https://github.com/grupoboticario/helpcenter-ms-franchise-serverless-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "7400584a-43c1-41c1-b806-e39bc5e3f42f",
+      "projectName": "template-nextjs"
+    }
+  },
+  {
+    "name": "loyalty-cplv",
+    "url": "https://github.com/grupoboticario/loyalty-cplv",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "7e5411e0-496a-4ff3-abc4-0fc4fa8fe033",
+      "projectName": "loyalty-cplv"
+    }
+  },
+  {
+    "name": "template-typescript-nextjs",
+    "url": "https://github.com/grupoboticario/template-typescript-nextjs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectName": "template-typescript-nextjs"
+    }
+  },
+  {
+    "name": "vs-consumidor-billing-reports-acl",
+    "url": "https://github.com/grupoboticario/vs-consumidor-billing-reports-acl",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "financeiro-seguros-backend-fila",
+    "url": "https://github.com/grupoboticario/financeiro-seguros-backend-fila",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "a669af8b-1336-450a-a1e9-84b72a7e4714",
+      "projectName": "ms-fila"
+    }
+  },
+  {
+    "name": "financeiro-seguros-backend-corretora",
+    "url": "https://github.com/grupoboticario/financeiro-seguros-backend-corretora",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "b5e6edf2-d656-40d5-96c3-3a490d5e126b",
+      "projectName": "ms-corretora"
+    }
+  },
+  {
+    "name": "financeiro-seguros-backend-arquivo-usuario-db",
+    "url": "https://github.com/grupoboticario/financeiro-seguros-backend-arquivo-usuario-db",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "9d59dac3-956e-4590-b191-0b4cd6f85099",
+      "projectName": "ms-usuario-arquivos-db"
+    }
+  },
+  {
+    "name": "financeiro-seguros-backend-arquivo-franquia-db",
+    "url": "https://github.com/grupoboticario/financeiro-seguros-backend-arquivo-franquia-db",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "19040793-cbd9-46e8-9611-568cf31f21eb",
+      "projectName": "ms-franquia-arquivos-db"
+    }
+  },
+  {
+    "name": "oms-lfc-sap-rfc-order",
+    "url": "https://github.com/grupoboticario/oms-lfc-sap-rfc-order",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "24756f31-78e1-418f-9c7a-c3100f81e9c6",
+      "projectName": "GHE_oms-lfc-sap-rfc-order"
+    }
+  },
+  {
+    "name": "gb-sn-spreadsheet-generator",
+    "url": "https://github.com/grupoboticario/gb-sn-spreadsheet-generator",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "financeiro-seguros-backend-corretora-sinistro",
+    "url": "https://github.com/grupoboticario/financeiro-seguros-backend-corretora-sinistro",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "f45a8da0-8d08-4792-853c-f54d587a1502",
+      "projectName": "ms-corretora-sinistro"
+    }
+  },
+  {
+    "name": "financeiro-seguros-backend-corretora-status-sinistro",
+    "url": "https://github.com/grupoboticario/financeiro-seguros-backend-corretora-status-sinistro",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "715a2c4f-5840-4ac2-a936-65f3ca8b4992",
+      "projectName": "ms-corretora-status-sinistro"
+    }
+  },
+  {
+    "name": "financeiro-seguros-backend-corretora-sinistro-arquivo",
+    "url": "https://github.com/grupoboticario/financeiro-seguros-backend-corretora-sinistro-arquivo",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "ebd3ab38-79a9-4482-a3e6-4551d9ed6ab9",
+      "projectName": "ms-corretora-sinistro-arquivo"
+    }
+  },
+  {
+    "name": "financeiro-seguros-backend-corretora-status-sinistro-arquivo",
+    "url": "https://github.com/grupoboticario/financeiro-seguros-backend-corretora-status-sinistro-arquivo",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "076604ed-6729-4d70-a8ce-3858a387cebd",
+      "projectName": "ms-corretora-status-sinistro-arquivo"
+    }
+  },
+  {
+    "name": "kafka-reference-app-serverless",
+    "url": "https://github.com/grupoboticario/kafka-reference-app-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "financial-legal-finance-announcements-events-consumer-debit-notes-api",
+    "url": "https://github.com/grupoboticario/financial-legal-finance-announcements-events-consumer-debit-notes-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "lxp-franchising-serverless",
+    "url": "https://github.com/grupoboticario/lxp-franchising-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "e29f443e-43d0-4813-9ba4-6581a0dedaea",
+      "projectName": "GHE_lxp-franchising-serverless"
+    }
+  },
+  {
+    "name": "cart-lib-checkout",
+    "url": "https://github.com/grupoboticario/cart-lib-checkout",
+    "sonar": {
+      "organization": "gboticario",
+      "projectName": "cart-lib-checkout"
+    }
+  },
+  {
+    "name": "cart-components-sellout",
+    "url": "https://github.com/grupoboticario/cart-components-sellout",
+    "sonar": {
+      "organization": "gboticario",
+      "projectName": "cart-components-sellout"
+    }
+  },
+  {
+    "name": "template-python-serveless",
+    "url": "https://github.com/grupoboticario/template-python-serveless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "template-python-serverless",
+      "projectName": "template-python-serverless"
+    }
+  },
+  {
+    "name": "bot-jira-automation-gb",
+    "url": "https://github.com/grupoboticario/bot-jira-automation-gb",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "ecomm-app-static-site",
+    "url": "https://github.com/grupoboticario/ecomm-app-static-site",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-resources-service",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-resources-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "23d7d443-12a9-4c31-b202-b168c185a3a6",
+      "projectName": "lxp-resources-service"
+    }
+  },
+  {
+    "name": "franq-gbweb-extranet-gbweb-admin-frontend",
+    "url": "https://github.com/grupoboticario/franq-gbweb-extranet-gbweb-admin-frontend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "69bda2a4-cbdf-4c63-94a7-af2467f5b2ad",
+      "projectName": "GHE_franq-gbweb-extranet-gbweb-admin-frontend"
+    }
+  },
+  {
+    "name": "data-extension-generator",
+    "url": "https://github.com/grupoboticario/data-extension-generator",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-extension-generator/",
+      "projectName": "data-extension-generator/"
+    }
+  },
+  {
+    "name": "product-review",
+    "url": "https://github.com/grupoboticario/product-review",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "product-review",
+      "projectName": "product-review"
+    }
+  },
+  {
+    "name": "security-management-platform",
+    "url": "https://github.com/grupoboticario/security-management-platform",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "b720d0ac-e415-4a58-8c6d-27c1d8cd387c",
+      "projectName": "template-node-fastify-dynamodb"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-courses-service",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-courses-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "e2ece425-f9fc-4629-a4f7-d05b9052df60",
+      "projectName": "lxp-courses-service"
+    }
+  },
+  {
+    "name": "pf-digital-account-api",
+    "url": "https://github.com/grupoboticario/pf-digital-account-api",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.sonarProjectId}}",
+      "projectName": "{{parameters.component}}"
+    }
+  },
+  {
+    "name": "helpcenter-external-crm-api",
+    "url": "https://github.com/grupoboticario/helpcenter-external-crm-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "profin-moozbox-banktransfer",
+    "url": "https://github.com/grupoboticario/profin-moozbox-banktransfer",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "77625528-1acb-4fc8-934a-969160586d0c",
+      "projectName": "banktransfer"
+    }
+  },
+  {
+    "name": "lxp-messenger-serverless",
+    "url": "https://github.com/grupoboticario/lxp-messenger-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "servicos-financeiros-fiscal-lambda-proxy-integration",
+    "url": "https://github.com/grupoboticario/servicos-financeiros-fiscal-lambda-proxy-integration",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "template-back-PGI-serveless",
+    "url": "https://github.com/grupoboticario/template-back-PGI-serveless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-reviews-service",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-reviews-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "054bb379-f234-490e-bc20-867439ca2182",
+      "projectName": "lxp-reviews-service"
+    }
+  },
+  {
+    "name": "vd-sellout-minhaloja-reseller-recommendation",
+    "url": "https://github.com/grupoboticario/vd-sellout-minhaloja-reseller-recommendation",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": "minhaloja-reseller-recommendation"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-audits-service",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-audits-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "bbe90d35-511d-4284-8eab-0f1e41344c40",
+      "projectName": "lxp-audits-service"
+    }
+  },
+  {
+    "name": "loja-digital-template-mfe",
+    "url": "https://github.com/grupoboticario/loja-digital-template-mfe",
+    "sonar": {
+      "organization": "gboticario"
+    }
+  },
+  {
+    "name": "precificador-purge-serverless",
+    "url": "https://github.com/grupoboticario/precificador-purge-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-groups-service",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-groups-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "9e3b656a-76ac-46ef-80e0-16c9c9b715b8",
+      "projectName": "lxp-groups-service"
+    }
+  },
+  {
+    "name": "demaba-ordercapture-orders-frontend",
+    "url": "https://github.com/grupoboticario/demaba-ordercapture-orders-frontend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "demaba-ordercapture-orders-frontend",
+      "projectName": "demaba-ordercapture-orders-frontend"
+    }
+  },
+  {
+    "name": "profin-moozbox-bondfinder-api",
+    "url": "https://github.com/grupoboticario/profin-moozbox-bondfinder-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "bef3151e-665b-4395-84a7-a58a656ebd75",
+      "projectName": "bondfinder-api"
+    }
+  },
+  {
+    "name": "profin-moozbox-usermanagement-api",
+    "url": "https://github.com/grupoboticario/profin-moozbox-usermanagement-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "fb3c3a67-3be0-4b7f-a817-3bc09d783e4b",
+      "projectName": "usermanagement-api"
+    }
+  },
+  {
+    "name": "profin-moozbox-nucleo-bancario-api",
+    "url": "https://github.com/grupoboticario/profin-moozbox-nucleo-bancario-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "c1fb7dc9-afb2-4863-8022-bd7bef2512f4",
+      "projectName": "nucleo-bancario-api"
+    }
+  },
+  {
+    "name": "vd-sellout-revista-del-chavo-pdf-processor",
+    "url": "https://github.com/grupoboticario/vd-sellout-revista-del-chavo-pdf-processor",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "template-python-serverless",
+      "projectName": "template-python-serverless"
+    }
+  },
+  {
+    "name": "colab-gb-slack-ccmcl-gshconn",
+    "url": "https://github.com/grupoboticario/colab-gb-slack-ccmcl-gshconn",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "5148c50d-8c29-4656-b09b-4eea2d209e06",
+      "projectName": "ccmcl-gshconn"
+    }
+  },
+  {
+    "name": "profin-moozbox-banco-digital-container-mf",
+    "url": "https://github.com/grupoboticario/profin-moozbox-banco-digital-container-mf",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "banco-digital-container-mf",
+      "projectName": "banco-digital-container-mf"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-enrollments-service",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-enrollments-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "73677f37-5471-4163-b272-a0621532a94e",
+      "projectName": "lxp-enrollments-service"
+    }
+  },
+  {
+    "name": "ordercapture-serverless",
+    "url": "https://github.com/grupoboticario/ordercapture-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "ordercapture-serverless",
+      "projectName": "dea-oms-ordercapture-serverless"
+    }
+  },
+  {
+    "name": "treinamento-prismic-vd-sq-minha-loja-vendas",
+    "url": "https://github.com/grupoboticario/treinamento-prismic-vd-sq-minha-loja-vendas",
+    "sonar": {
+      "organization": "gboticario",
+      "projectName": "template-typescript-nextjs"
+    }
+  },
+  {
+    "name": "vd-sellout-treinamento-prismic-sellout",
+    "url": "https://github.com/grupoboticario/vd-sellout-treinamento-prismic-sellout",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": "treinamento-prismic-sellout"
+    }
+  },
+  {
+    "name": "profin-moozbox-bondreceiver",
+    "url": "https://github.com/grupoboticario/profin-moozbox-bondreceiver",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "profin-moozbox-bondreceiver",
+      "projectName": "profin-moozbox-bondreceiver"
+    }
+  },
+  {
+    "name": "acao-de-fluxo-commons",
+    "url": "https://github.com/grupoboticario/acao-de-fluxo-commons",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "acao-de-fluxo-commons",
+      "projectName": "acao-de-fluxo-commons"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-filters-service",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-filters-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-filters-service",
+      "projectName": "lxp-filters-service"
+    }
+  },
+  {
+    "name": "vd-sellout-infra-minha-loja",
+    "url": "https://github.com/grupoboticario/vd-sellout-infra-minha-loja",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": "infra-minha-loja"
+    }
+  },
+  {
+    "name": "pl-sync-delivery-proofs",
+    "url": "https://github.com/grupoboticario/pl-sync-delivery-proofs",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.sonarProjectId}}",
+      "projectName": "{{parameters.component}}"
+    }
+  },
+  {
+    "name": "app-store-reviews-frontend",
+    "url": "https://github.com/grupoboticario/app-store-reviews-frontend",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.sonarProjectId}}",
+      "projectName": "{{parameters.component}}"
+    }
+  },
+  {
+    "name": "profin-moozbox-bff-api",
+    "url": "https://github.com/grupoboticario/profin-moozbox-bff-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "profin-moozbox-bff-api",
+      "projectName": "profin-moozbox-bff-api"
+    }
+  },
+  {
+    "name": "arq-ferramenta-de-arquitetura-poc-drawio",
+    "url": "https://github.com/grupoboticario/arq-ferramenta-de-arquitetura-poc-drawio",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-ferramenta-de-arquitetura-poc-drawio",
+      "projectName": "poc-drawio"
+    }
+  },
+  {
+    "name": "profin-moozbox-core-banking-mf",
+    "url": "https://github.com/grupoboticario/profin-moozbox-core-banking-mf",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "core-banking-mf",
+      "projectName": "core-banking-mf"
+    }
+  },
+  {
+    "name": "profin-moozbox-financial-schedule-mf",
+    "url": "https://github.com/grupoboticario/profin-moozbox-financial-schedule-mf",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "financial-schedule-mf",
+      "projectName": "financial-schedule-mf"
+    }
+  },
+  {
+    "name": "prodfin-mooz-micronaut-grpc-demo",
+    "url": "https://github.com/grupoboticario/prodfin-mooz-micronaut-grpc-demo",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "profin-mooz-micronaut-grpc-demo",
+      "projectName": "micronaut-grpc-demo"
+    }
+  },
+  {
+    "name": "sap-kyma-deploy-test",
+    "url": "https://github.com/grupoboticario/sap-kyma-deploy-test",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "template-sap-kyma",
+      "projectName": "template-sap-kyma"
+    }
+  },
+  {
+    "name": "botipred",
+    "url": "https://github.com/grupoboticario/botipred",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "botipred",
+      "projectName": "botipred"
+    }
+  },
+  {
+    "name": "prodfin-moozbox-billing-manager-api",
+    "url": "https://github.com/grupoboticario/prodfin-moozbox-billing-manager-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "prodfin-moozbox-billing-manager-api",
+      "projectName": "billing-manager-api"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-libraries-service",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-libraries-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-libraries-service",
+      "projectName": "lxp-libraries-service"
+    }
+  },
+  {
+    "name": "naoprop-b2b-site-instucional-multib-frontend",
+    "url": "https://github.com/grupoboticario/naoprop-b2b-site-instucional-multib-frontend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectName": "template-typescript-nextjs"
+    }
+  },
+  {
+    "name": "newrelic-logger-serverless",
+    "url": "https://github.com/grupoboticario/newrelic-logger-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "05216ca3-91f7-40f4-a996-1e299a4bc183",
+      "projectName": "library-logger-serverless-node"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-carousels-service",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-carousels-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-carousels-service",
+      "projectName": "lxp-carousels-service"
+    }
+  },
+  {
+    "name": "prodfin-moozbox-onboarding-mf",
+    "url": "https://github.com/grupoboticario/prodfin-moozbox-onboarding-mf",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "onboarding-mf",
+      "projectName": "onboarding-mf"
+    }
+  },
+  {
+    "name": "colab-gb-slack-ccmcl-slksn-suport-bot",
+    "url": "https://github.com/grupoboticario/colab-gb-slack-ccmcl-slksn-suport-bot",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-gb-slack-ccmcl-slksn-suport-bot",
+      "projectName": "ccmcl-slksn-suport-bot"
+    }
+  },
+  {
+    "name": "prodfin-moozbox-poc-migration",
+    "url": "https://github.com/grupoboticario/prodfin-moozbox-poc-migration",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "prodfin-moozbox-poc-migration",
+      "projectName": "poc-migration"
+    }
+  },
+  {
+    "name": "colab-gb-slack-ccmcl-daily-bot",
+    "url": "https://github.com/grupoboticario/colab-gb-slack-ccmcl-daily-bot",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-gb-slack-ccmcl-daily-bot",
+      "projectName": "colab-gb-slack-ccmcl-daily-bot"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-knowledge-hub-bot",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-knowledge-hub-bot",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-knowledge-hub-bot",
+      "projectName": "franq-lxp-lxp-knowledge-hub-bot"
+    }
+  },
+  {
+    "name": "colab-click-gb-assoc-integration-api",
+    "url": "https://github.com/grupoboticario/colab-click-gb-assoc-integration-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-click-gb-assoc-integration-api",
+      "projectName": "colab-click-gb-assoc-integration-api"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-reports-serverless",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-reports-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-reports-serverless",
+      "projectName": "lxp-reports-serverless"
+    }
+  },
+  {
+    "name": "dea-oms-lifecycle-uuid-serverless",
+    "url": "https://github.com/grupoboticario/dea-oms-lifecycle-uuid-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-oms-lifecycle-uuid-serverless",
+      "projectName": "uuid-serverless"
+    }
+  },
+  {
+    "name": "prodfin-moozbox-cnabstatements-worker",
+    "url": "https://github.com/grupoboticario/prodfin-moozbox-cnabstatements-worker",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "prodfin-moozbox-cnabstatements-worker",
+      "projectName": "prodfin-moozbox-cnabstatements-worker"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-event-hub-producer",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-event-hub-producer",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-event-hub-producer",
+      "projectName": "franq-lxp-lxp-event-hub-producer"
+    }
+  },
+  {
+    "name": "prodfin-moozbox-conta-digital-api",
+    "url": "https://github.com/grupoboticario/prodfin-moozbox-conta-digital-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "prodfin-moozbox-conta-digital-api",
+      "projectName": "conta-digital-api"
+    }
+  },
+  {
+    "name": "vd-vbarbos-ui-mld-vbarbos-ui",
+    "url": "https://github.com/grupoboticario/vd-vbarbos-ui-mld-vbarbos-ui",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vbarbos-ui-mld-vbarbos-ui",
+      "projectName": "vd-vbarbos-ui-mld-vbarbos-ui"
+    }
+  },
+  {
+    "name": "glue-monitor",
+    "url": "https://github.com/grupoboticario/glue-monitor",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "template-python-serverless",
+      "projectName": "template-python-serverless"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-users-event-hub-consumer",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-users-event-hub-consumer",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-users-event-hub-consumer",
+      "projectName": "franq-lxp-lxp-users-event-hub-consumer"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-users-integration-ingress",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-users-integration-ingress",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-users-integration-ingress",
+      "projectName": "franq-lxp-lxp-users-integration-ingress"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-user-integration-ingress-franchise",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-user-integration-ingress-franchise",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-user-integration-ingress-franchise",
+      "projectName": "franq-lxp-lxp-user-integration-ingress-franchise"
+    }
+  },
+  {
+    "name": "plat-eng-alquimia-repo-analytics",
+    "url": "https://github.com/grupoboticario/plat-eng-alquimia-repo-analytics",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "plat-eng-alquimia-repo-analytics",
+      "projectName": "plat-eng-alquimia-repo-analytics"
+    }
+  },
+  {
+    "name": "kafka-reference-app-python-serverless",
+    "url": "https://github.com/grupoboticario/kafka-reference-app-python-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "kafka-reference-app-python-serverless",
+      "projectName": "kafka-reference-app-python-serverless"
+    }
+  },
+  {
+    "name": "cnp-template-basic-node",
+    "url": "https://github.com/grupoboticario/cnp-template-basic-node",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "pl-plataforma-logistica-audit-order",
+    "url": "https://github.com/grupoboticario/pl-plataforma-logistica-audit-order",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "pl-plataforma-logistica-audit-order",
+      "projectName": "audit-order"
+    }
+  },
+  {
+    "name": "colab-gb-slack-ccmcl-slack-jobs",
+    "url": "https://github.com/grupoboticario/colab-gb-slack-ccmcl-slack-jobs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-gb-slack-ccmcl-slack-jobs",
+      "projectName": "colab-gb-slack-ccmcl-slack-jobs"
+    }
+  },
+  {
+    "name": "vd-plataforma-de-servicos-estoque",
+    "url": "https://github.com/grupoboticario/vd-plataforma-de-servicos-estoque",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-plataforma-de-servicos-estoque",
+      "projectName": "estoque"
+    }
+  },
+  {
+    "name": "franq-gcamng-marketing-management-service",
+    "url": "https://github.com/grupoboticario/franq-gcamng-marketing-management-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-gcam-gcamng-marketing-management-service",
+      "projectName": "franq-gcam-gcamng-marketing-management-service"
+    }
+  },
+  {
+    "name": "vd-vdi-core-vdi-core-app",
+    "url": "https://github.com/grupoboticario/vd-vdi-core-vdi-core-app",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vdi-core-vdi-core-app",
+      "projectName": "vd-vdi-core-vdi-core-app"
+    }
+  },
+  {
+    "name": "prodfin-mooz-integration-tests-consumer",
+    "url": "https://github.com/grupoboticario/prodfin-mooz-integration-tests-consumer",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "prodfin-mooz-profin-mooz-integration-tests-consumer",
+      "projectName": "prodfin-mooz-profin-mooz-integration-tests-consumer"
+    }
+  },
+  {
+    "name": "saloes-plataforma-cabaret-matchpro-landing-page",
+    "url": "https://github.com/grupoboticario/saloes-plataforma-cabaret-matchpro-landing-page",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "saloes-plataforma-cabaret-matchpro-landing-page",
+      "projectName": "saloes-plataforma-cabaret-matchpro-landing-page"
+    }
+  },
+  {
+    "name": "pl-arquitetura-de-dados-poc-event-hub-gcp-v2",
+    "url": "https://github.com/grupoboticario/pl-arquitetura-de-dados-poc-event-hub-gcp-v2",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "pl-arquitetura-de-dados-poc-event-hub-gcp-v2",
+      "projectName": "pl-arquitetura-de-dados-poc-event-hub-gcp-v2"
+    }
+  },
+  {
+    "name": "loja-digital-integration-price",
+    "url": "https://github.com/grupoboticario/loja-digital-integration-price",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "loja-digital-integration-price",
+      "projectName": "loja-digital-integration-price"
+    }
+  },
+  {
+    "name": "colab-gb-slack-ccmcl-slk-evt-control-api",
+    "url": "https://github.com/grupoboticario/colab-gb-slack-ccmcl-slk-evt-control-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-gb-slack-ccmcl-slk-evt-control-api",
+      "projectName": "colab-gb-slack-ccmcl-slk-evt-control-api"
+    }
+  },
+  {
+    "name": "colab-gb-slack-ccmcl-slk-evt-audit-gettter",
+    "url": "https://github.com/grupoboticario/colab-gb-slack-ccmcl-slk-evt-audit-gettter",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-gb-slack-ccmcl-slk-evt-audit-gettter",
+      "projectName": "colab-gb-slack-ccmcl-slk-evt-audit-gettter"
+    }
+  },
+  {
+    "name": "colab-gb-slack-ccmcl-slk-evt-event-multiplier",
+    "url": "https://github.com/grupoboticario/colab-gb-slack-ccmcl-slk-evt-event-multiplier",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-gb-slack-ccmcl-slk-evt-event-multiplier",
+      "projectName": "colab-gb-slack-ccmcl-slk-evt-event-multiplier"
+    }
+  },
+  {
+    "name": "colab-gb-slack-ccmcl-slk-evt-event-shooter",
+    "url": "https://github.com/grupoboticario/colab-gb-slack-ccmcl-slk-evt-event-shooter",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-gb-slack-ccmcl-slk-evt-event-shooter",
+      "projectName": "colab-gb-slack-ccmcl-slk-evt-event-shooter"
+    }
+  },
+  {
+    "name": "colab-gb-slack-ccmcl-slk-evt-actions-job",
+    "url": "https://github.com/grupoboticario/colab-gb-slack-ccmcl-slk-evt-actions-job",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-gb-slack-ccmcl-slk-evt-actions-job",
+      "projectName": "colab-gb-slack-ccmcl-slk-evt-actions-job"
+    }
+  },
+  {
+    "name": "vd-vdi-core-increment-token",
+    "url": "https://github.com/grupoboticario/vd-vdi-core-increment-token",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vdi-core-increment-token",
+      "projectName": "vd-vdi-core-increment-token"
+    }
+  },
+  {
+    "name": "cnp-b2b-facilita-demanda-colaborativa-demanda-gcp-etl",
+    "url": "https://github.com/grupoboticario/cnp-b2b-facilita-demanda-colaborativa-demanda-gcp-etl",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cnp-b2b-facilita-demanda-colaborativa-demanda-gcp-etl",
+      "projectName": "cnp-b2b-facilita-demanda-colaborativa-demanda-gcp-etl"
+    }
+  },
+  {
+    "name": "dea-ordercapture-model-lib",
+    "url": "https://github.com/grupoboticario/dea-ordercapture-model-lib",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-ordercapture-model-lib",
+      "projectName": "model-lib"
+    }
+  },
+  {
+    "name": "pl-plataforma-logistica-pl-shipping-prices-engine",
+    "url": "https://github.com/grupoboticario/pl-plataforma-logistica-pl-shipping-prices-engine",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "pl-plataforma-logistica-pl-shipping-prices-engine",
+      "projectName": "pl-shipping-prices-engine"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-registration-konviva-gcp",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-registration-konviva-gcp",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-registration-konviva-gcp",
+      "projectName": "franq-lxp-lxp-registration-konviva-gcp"
+    }
+  },
+  {
+    "name": "tiktok-basic-auth-cloudfront-s3",
+    "url": "https://github.com/grupoboticario/tiktok-basic-auth-cloudfront-s3",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "loja-digital-webhook",
+    "url": "https://github.com/grupoboticario/loja-digital-webhook",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-pdd-loja-digital-chats-webhook",
+      "projectName": "cons-pdd-loja-digital-chats-webhook"
+    }
+  },
+  {
+    "name": "colab-slk-org-admin-ccmcl-slk-org-cli",
+    "url": "https://github.com/grupoboticario/colab-slk-org-admin-ccmcl-slk-org-cli",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-slk-org-admin-ccmcl-slk-org-cli",
+      "projectName": "colab-slk-org-admin-ccmcl-slk-org-cli"
+    }
+  },
+  {
+    "name": "pl-lambda-logistica-contracting-place",
+    "url": "https://github.com/grupoboticario/pl-lambda-logistica-contracting-place",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "pl-plataforma-logistica-lambda-logistica-contracting-place",
+      "projectName": "pl-plataforma-logistica-lambda-logistica-contracting-place"
+    }
+  },
+  {
+    "name": "pl-lambda-logistica-contracting-outcome",
+    "url": "https://github.com/grupoboticario/pl-lambda-logistica-contracting-outcome",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "pl-plataforma-logistica-lambda-logistica-contracting-outcome",
+      "projectName": "pl-plataforma-logistica-lambda-logistica-contracting-outcome"
+    }
+  },
+  {
+    "name": "arq-plataforma-integracoes-baldur-backend-api",
+    "url": "https://github.com/grupoboticario/arq-plataforma-integracoes-baldur-backend-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-plataforma-integracoes-baldur-backend-api",
+      "projectName": "arq-plataforma-integracoes-baldur-backend-api"
+    }
+  },
+  {
+    "name": "loja-digital-integration-stores",
+    "url": "https://github.com/grupoboticario/loja-digital-integration-stores",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "loja-digital-integration-stores",
+      "projectName": "loja-digital-integration-stores"
+    }
+  },
+  {
+    "name": "vd-vdi-ca-commercial-structure",
+    "url": "https://github.com/grupoboticario/vd-vdi-ca-commercial-structure",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vdi-ca-commercial-structure",
+      "projectName": "vd-vdi-ca-commercial-structure"
+    }
+  },
+  {
+    "name": "colab-click-gb-formulario-taxi-mfe",
+    "url": "https://github.com/grupoboticario/colab-click-gb-formulario-taxi-mfe",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-click-gb-formulario-taxi-mfe",
+      "projectName": "colab-click-gb-formulario-taxi-mfe"
+    }
+  },
+  {
+    "name": "loja-digital-motor-integration",
+    "url": "https://github.com/grupoboticario/loja-digital-motor-integration",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "loja-digital-motor-integration",
+      "projectName": "loja-digital-motor-integration"
+    }
+  },
+  {
+    "name": "colab-click-gb-bff-snow-form",
+    "url": "https://github.com/grupoboticario/colab-click-gb-bff-snow-form",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-click-gb-bff-snow-form",
+      "projectName": "colab-click-gb-bff-snow-form"
+    }
+  },
+  {
+    "name": "last-dance-nest-banking",
+    "url": "https://github.com/grupoboticario/last-dance-nest-banking",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "last-dance-nest-banking",
+      "projectName": "last-dance-nest-banking"
+    }
+  },
+  {
+    "name": "finlegal-seguros-backend-ingresse-authorizer",
+    "url": "https://github.com/grupoboticario/finlegal-seguros-backend-ingresse-authorizer",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "arq-arquitetura-de-dados-poc-wif-aws-gcp",
+    "url": "https://github.com/grupoboticario/arq-arquitetura-de-dados-poc-wif-aws-gcp",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-arquitetura-de-dados-poc-wif-aws-gcp",
+      "projectName": "arq-arquitetura-de-dados-poc-wif-aws-gcp"
+    }
+  },
+  {
+    "name": "franq-endless-showroom-doc",
+    "url": "https://github.com/grupoboticario/franq-endless-showroom-doc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-franchising-endless-showroom-franchising-endless-showroom-doc",
+      "projectName": "franchising-endless-showroom-doc"
+    }
+  },
+  {
+    "name": "colab-ccl-flows-colab-conductor",
+    "url": "https://github.com/grupoboticario/colab-ccl-flows-colab-conductor",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-ccl-flows-colab-conductor",
+      "projectName": "colab-ccl-flows-colab-conductor"
+    }
+  },
+  {
+    "name": "botty-heimdall",
+    "url": "https://github.com/grupoboticario/botty-heimdall",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "si-botty-botty-heimdall",
+      "projectName": "botty-heimdall"
+    }
+  },
+  {
+    "name": "btp-template-desenvolvimento",
+    "url": "https://github.com/grupoboticario/btp-template-desenvolvimento",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-devs4-btp-template-desenvolvimento",
+      "projectName": "dea-devs4-btp-template-desenvolvimento"
+    }
+  },
+  {
+    "name": "dea-integracao-dea-mar-demand-data",
+    "url": "https://github.com/grupoboticario/dea-integracao-dea-mar-demand-data",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-integracao-dea-mar-demand-data",
+      "projectName": "dea-integracao-dea-mar-demand-data"
+    }
+  },
+  {
+    "name": "vd_appre_loyalty_flutter_microapp",
+    "url": "https://github.com/grupoboticario/vd_appre_loyalty_flutter_microapp",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-appre-loyalty-flutter-microapp",
+      "projectName": "vd-appre-loyalty-flutter-microapp"
+    }
+  },
+  {
+    "name": "vd-cart-order-integrator-service",
+    "url": "https://github.com/grupoboticario/vd-cart-order-integrator-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-cart-order-integrator-service",
+      "projectName": "vd-cart-order-integrator-service"
+    }
+  },
+  {
+    "name": "vd-vdi-ci-operations",
+    "url": "https://github.com/grupoboticario/vd-vdi-ci-operations",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vdi-ci-operations",
+      "projectName": "vd-vdi-ci-operations"
+    }
+  },
+  {
+    "name": "finlegal-plataforma-lei-do-bem-backend-dispendios",
+    "url": "https://github.com/grupoboticario/finlegal-plataforma-lei-do-bem-backend-dispendios",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-plataforma-lei-do-bem-backend-dispendios",
+      "projectName": "finlegal-plataforma-lei-do-bem-backend-dispendios"
+    }
+  },
+  {
+    "name": "finops-dev",
+    "url": "https://github.com/grupoboticario/finops-dev",
+    "sonar": {
+      "organization": "gboticario",
+      "projectName": "template-typescript-nextjs"
+    }
+  },
+  {
+    "name": "franq-gpp-lift-frontend",
+    "url": "https://github.com/grupoboticario/franq-gpp-lift-frontend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-gpp-lift-frontend",
+      "projectName": "franq-gpp-lift-frontend"
+    }
+  },
+  {
+    "name": "finlegal-plataforma-lei-do-bem-backend-cross-proventos",
+    "url": "https://github.com/grupoboticario/finlegal-plataforma-lei-do-bem-backend-cross-proventos",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-plataforma-lei-do-bem-backend-cross-proventos",
+      "projectName": "finlegal-plataforma-lei-do-bem-backend-cross-proventos"
+    }
+  },
+  {
+    "name": "colab-click-gb-mfe-home-gestor",
+    "url": "https://github.com/grupoboticario/colab-click-gb-mfe-home-gestor",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-click-gb-mfe-home-gestor",
+      "projectName": "colab-click-gb-mfe-home-gestor"
+    }
+  },
+  {
+    "name": "vd-sellout-aquisicao-de-leads-docs",
+    "url": "https://github.com/grupoboticario/vd-sellout-aquisicao-de-leads-docs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-sellout-aquisicao-de-leads-docs",
+      "projectName": "vd-sellout-aquisicao-de-leads-docs"
+    }
+  },
+  {
+    "name": "dea-oms-lifecycle-upload-file-s3-to-gdrive",
+    "url": "https://github.com/grupoboticario/dea-oms-lifecycle-upload-file-s3-to-gdrive",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-oms-lifecycle-upload-file-s3-to-gdrive",
+      "projectName": "dea-oms-lifecycle-upload-file-s3-to-gdrive"
+    }
+  },
+  {
+    "name": "prodfin-payment-gateway-payment-gateway-docs",
+    "url": "https://github.com/grupoboticario/prodfin-payment-gateway-payment-gateway-docs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "prodfin-payment-gateway-payment-gateway-docs",
+      "projectName": "prodfin-payment-gateway-payment-gateway-docs"
+    }
+  },
+  {
+    "name": "prodfin-payment-gateway-docs",
+    "url": "https://github.com/grupoboticario/prodfin-payment-gateway-docs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "prodfin-payment-gateway-docs",
+      "projectName": "prodfin-payment-gateway-docs"
+    }
+  },
+  {
+    "name": "ds-fds-frd-backup",
+    "url": "https://github.com/grupoboticario/ds-fds-frd-backup",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-fds-frd-alteracao-cadastral",
+      "projectName": "data-sci-data-science-ds-fds-frd-alteracao-cadastral"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-migration-serverless",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-migration-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-migration-serverless",
+      "projectName": "franq-lxp-lxp-migration-serverless"
+    }
+  },
+  {
+    "name": "vd-sellout-reseller-recommendation-sdk",
+    "url": "https://github.com/grupoboticario/vd-sellout-reseller-recommendation-sdk",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-sellout-reseller-recommendation-sdk",
+      "projectName": "vd-sellout-reseller-recommendation-sdk"
+    }
+  },
+  {
+    "name": "pl-plataforma-logistica-shipping-prices-engine-service-discovery",
+    "url": "https://github.com/grupoboticario/pl-plataforma-logistica-shipping-prices-engine-service-discovery",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "pl-plataforma-logistica-shipping-prices-engine-service-discovery",
+      "projectName": "pl-plataforma-logistica-shipping-prices-engine-service-discovery"
+    }
+  },
+  {
+    "name": "finlegal-plataforma-lei-do-bem-backend-cross-dispendios",
+    "url": "https://github.com/grupoboticario/finlegal-plataforma-lei-do-bem-backend-cross-dispendios",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-plataforma-lei-do-bem-backend-cross-dispendios",
+      "projectName": "finlegal-plataforma-lei-do-bem-backend-cross-dispendios"
+    }
+  },
+  {
+    "name": "data-sci-data-science-ds-pd-boticolorista-pipelines",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-ds-pd-boticolorista-pipelines",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-pd-boticolorista-pipelines",
+      "projectName": "data-sci-data-science-ds-pd-boticolorista-pipelines"
+    }
+  },
+  {
+    "name": "vd-cart-update-status-service",
+    "url": "https://github.com/grupoboticario/vd-cart-update-status-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-cart-update-status-service",
+      "projectName": "vd-cart-update-status-service"
+    }
+  },
+  {
+    "name": "vd-cart-cancel-order-service",
+    "url": "https://github.com/grupoboticario/vd-cart-cancel-order-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-cart-cancel-order-service",
+      "projectName": "vd-cart-cancel-order-service"
+    }
+  },
+  {
+    "name": "vd-cart-update-errors-service",
+    "url": "https://github.com/grupoboticario/vd-cart-update-errors-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-cart-update-errors-service",
+      "projectName": "vd-cart-update-errors-service"
+    }
+  },
+  {
+    "name": "ds-vd-wppim-eud",
+    "url": "https://github.com/grupoboticario/ds-vd-wppim-eud",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-data-science-ds-vd-wppim-eud",
+      "projectName": "vd-data-science-ds-vd-wppim-eud"
+    }
+  },
+  {
+    "name": "colab-click-gb-bff-gestor",
+    "url": "https://github.com/grupoboticario/colab-click-gb-bff-gestor",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-click-gb-bff-gestor",
+      "projectName": "colab-click-gb-bff-gestor"
+    }
+  },
+  {
+    "name": "arq-flora-blzto-frontend",
+    "url": "https://github.com/grupoboticario/arq-flora-blzto-frontend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-flora-blzto-frontend",
+      "projectName": "arq-flora-blzto-frontend"
+    }
+  },
+  {
+    "name": "naoprop-gbweb-pedidos-backend",
+    "url": "https://github.com/grupoboticario/naoprop-gbweb-pedidos-backend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cnp-b2b-pedidos-pedidos-backend",
+      "projectName": "cnp-b2b-pedidos-pedidos-backend"
+    }
+  },
+  {
+    "name": "finlegal-servicos-financeiros-seguros-backend-corretora",
+    "url": "https://github.com/grupoboticario/finlegal-servicos-financeiros-seguros-backend-corretora",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-servicos-financeiros-seguros-backend-corretora",
+      "projectName": "finlegal-servicos-financeiros-seguros-backend-corretora"
+    }
+  },
+  {
+    "name": "si-gandalf-sync-issues",
+    "url": "https://github.com/grupoboticario/si-gandalf-sync-issues",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.sonarProjectId}}",
+      "projectName": "{{parameters.sonarProjectId}}"
+    }
+  },
+  {
+    "name": "ds-vertex-architecture-ml-template1",
+    "url": "https://github.com/grupoboticario/ds-vertex-architecture-ml-template1",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-vertex-architecture-ml-template1",
+      "projectName": "data-sci-data-science-ds-vertex-architecture-ml-template1"
+    }
+  },
+  {
+    "name": "vd-portais-checkout-poc",
+    "url": "https://github.com/grupoboticario/vd-portais-checkout-poc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-portais-checkout-poc",
+      "projectName": "vd-portais-checkout-poc"
+    }
+  },
+  {
+    "name": "colab-plataforma-colaborador-ccmcl-boticario-badges",
+    "url": "https://github.com/grupoboticario/colab-plataforma-colaborador-ccmcl-boticario-badges",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-plataforma-colaborador-ccmcl-boticario-badges",
+      "projectName": "colab-plataforma-colaborador-ccmcl-boticario-badges"
+    }
+  },
+  {
+    "name": "intern-ecommerce-address-improvement-app",
+    "url": "https://github.com/grupoboticario/intern-ecommerce-address-improvement-app",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "intern-ecommerce-address-improvement-app",
+      "projectName": "intern-ecommerce-address-improvement-app"
+    }
+  },
+  {
+    "name": "dataops-nginx-apigee-resources",
+    "url": "https://github.com/grupoboticario/dataops-nginx-apigee-resources",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "infra-arquitetura-de-dados-dataops-nginx-apigee-resources",
+      "projectName": "infra-arquitetura-de-dados-dataops-nginx-apigee-resources"
+    }
+  },
+  {
+    "name": "vd-cart-create-order-service",
+    "url": "https://github.com/grupoboticario/vd-cart-create-order-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-cart-cancel-order-service",
+      "projectName": "vd-cart-cancel-order-service"
+    }
+  },
+  {
+    "name": "finlegal-servicos-financeiros-seguros-backend-broker-manager",
+    "url": "https://github.com/grupoboticario/finlegal-servicos-financeiros-seguros-backend-broker-manager",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-servicos-financeiros-seguros-backend-broker-manager",
+      "projectName": "finlegal-servicos-financeiros-seguros-backend-broker-manager"
+    }
+  },
+  {
+    "name": "finlegal-data-science-ds-fds-fpa-perda-estoque",
+    "url": "https://github.com/grupoboticario/finlegal-data-science-ds-fds-fpa-perda-estoque",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-data-science-ds-fds-fpa-perda-estoque",
+      "projectName": "finlegal-data-science-ds-fds-fpa-perda-estoque"
+    }
+  },
+  {
+    "name": "colab-click-gb-mfe-bonus-statements",
+    "url": "https://github.com/grupoboticario/colab-click-gb-mfe-bonus-statements",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-click-gb-mfe-bonus-statements",
+      "projectName": "colab-click-gb-mfe-bonus-statements"
+    }
+  },
+  {
+    "name": "colab-slk-security-ccmcl-slk-watchman",
+    "url": "https://github.com/grupoboticario/colab-slk-security-ccmcl-slk-watchman",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-slk-security-ccmcl-slk-watchman",
+      "projectName": "colab-slk-security-ccmcl-slk-watchman"
+    }
+  },
+  {
+    "name": "colab-click-gb-stress-test",
+    "url": "https://github.com/grupoboticario/colab-click-gb-stress-test",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-click-gb-clickgb-stress-test",
+      "projectName": "colab-click-gb-clickgb-stress-test"
+    }
+  },
+  {
+    "name": "data-sci-data-science-ds-treinamento",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-ds-treinamento",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-treinamento",
+      "projectName": "data-sci-data-science-ds-treinamento"
+    }
+  },
+  {
+    "name": "finlegal-plataforma-lei-do-bem-backend-cross-automacoes",
+    "url": "https://github.com/grupoboticario/finlegal-plataforma-lei-do-bem-backend-cross-automacoes",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-plataforma-lei-do-bem-backend-cross-automacoes",
+      "projectName": "finlegal-plataforma-lei-do-bem-backend-cross-automacoes"
+    }
+  },
+  {
+    "name": "finlegal-servicos-financeiros-seguros-backend-claim-delivery",
+    "url": "https://github.com/grupoboticario/finlegal-servicos-financeiros-seguros-backend-claim-delivery",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-servicos-financeiros-seguros-backend-claim-delivery",
+      "projectName": "finlegal-servicos-financeiros-seguros-backend-claim-delivery"
+    }
+  },
+  {
+    "name": "vd-data-science-ds-vd-case-onboarding-andre-ambrosio",
+    "url": "https://github.com/grupoboticario/vd-data-science-ds-vd-case-onboarding-andre-ambrosio",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-data-science-ds-vd-case-onboarding-andre-ambrosio",
+      "projectName": "vd-data-science-ds-vd-case-onboarding-andre-ambrosio"
+    }
+  },
+  {
+    "name": "vd-data-science-case-onboarding-andre-ambrosio",
+    "url": "https://github.com/grupoboticario/vd-data-science-case-onboarding-andre-ambrosio",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-data-science-case-onboarding-andre-ambrosio",
+      "projectName": "vd-data-science-case-onboarding-andre-ambrosio"
+    }
+  },
+  {
+    "name": "ds-ecomm-monitoramento",
+    "url": "https://github.com/grupoboticario/ds-ecomm-monitoramento",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-ecomm-monitoramento",
+      "projectName": "data-sci-data-science-ds-ecomm-monitoramento"
+    }
+  },
+  {
+    "name": "vd-vdi-core-messenger-websocket",
+    "url": "https://github.com/grupoboticario/vd-vdi-core-messenger-websocket",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vdi-core-messenger-websocket",
+      "projectName": "vd-vdi-core-messenger-websocket"
+    }
+  },
+  {
+    "name": "data-sci-data-science-ds-cons-integracao-may",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-ds-cons-integracao-may",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-cons-integracao-may",
+      "projectName": "data-sci-data-science-ds-cons-integracao-may"
+    }
+  },
+  {
+    "name": "dea-gdem-product-gdem",
+    "url": "https://github.com/grupoboticario/dea-gdem-product-gdem",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-gdem-product-gdem",
+      "projectName": "dea-gdem-product-gdem"
+    }
+  },
+  {
+    "name": "data-sci-data-science-archive-ds-enriquecimento-dados-crm",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-archive-ds-enriquecimento-dados-crm",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-archive-ds-enriquecimento-dados-crm",
+      "projectName": "data-sci-data-science-archive-ds-enriquecimento-dados-crm"
+    }
+  },
+  {
+    "name": "finlegal-condpag-backend-auth",
+    "url": "https://github.com/grupoboticario/finlegal-condpag-backend-auth",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-condpag-backend-auth",
+      "projectName": "finlegal-condpag-backend-auth"
+    }
+  },
+  {
+    "name": "vd-model-catalog",
+    "url": "https://github.com/grupoboticario/vd-model-catalog",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-model-catalog",
+      "projectName": "model-catalog"
+    }
+  },
+  {
+    "name": "finlegal-servicos-financeiros-documentacao",
+    "url": "https://github.com/grupoboticario/finlegal-servicos-financeiros-documentacao",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-servicos-financeiros-documentacao",
+      "projectName": "finlegal-servicos-financeiros-documentacao"
+    }
+  },
+  {
+    "name": "finlegal-finance-platform-tech-doc",
+    "url": "https://github.com/grupoboticario/finlegal-finance-platform-tech-doc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-finance-platform-tech-doc",
+      "projectName": "finlegal-finance-platform-tech-doc"
+    }
+  },
+  {
+    "name": "ds-vd-monitoramento",
+    "url": "https://github.com/grupoboticario/ds-vd-monitoramento",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-vd-monitoramento-modelos",
+      "projectName": "data-sci-data-science-ds-vd-monitoramento-modelos"
+    }
+  },
+  {
+    "name": "btp-tec-apikafka",
+    "url": "https://github.com/grupoboticario/btp-tec-apikafka",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "template-sap-kyma",
+      "projectName": "template-sap-kyma"
+    }
+  },
+  {
+    "name": "arq-maturidade-engenharia-software-newrelic-paralell-collection",
+    "url": "https://github.com/grupoboticario/arq-maturidade-engenharia-software-newrelic-paralell-collection",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-maturidade-engenharia-software-newrelic-paralell-collection",
+      "projectName": "arq-maturidade-engenharia-software-newrelic-paralell-collection"
+    }
+  },
+  {
+    "name": "finlegal-servicos-financeiros-condpag-producer",
+    "url": "https://github.com/grupoboticario/finlegal-servicos-financeiros-condpag-producer",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-servicos-financeiros-condpag-producer",
+      "projectName": "finlegal-servicos-financeiros-condpag-producer"
+    }
+  },
+  {
+    "name": "arq-plataforma-mfe-host",
+    "url": "https://github.com/grupoboticario/arq-plataforma-mfe-host",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-plataforma-mfe-host",
+      "projectName": "arq-plataforma-mfe-host"
+    }
+  },
+  {
+    "name": "finlegal-servicos-financeiros-doc-builder-v2",
+    "url": "https://github.com/grupoboticario/finlegal-servicos-financeiros-doc-builder-v2",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-servicos-financeiros-doc-builder-v2",
+      "projectName": "finlegal-servicos-financeiros-doc-builder-v2"
+    }
+  },
+  {
+    "name": "franq-gbweb-extranet-mf-landingpage",
+    "url": "https://github.com/grupoboticario/franq-gbweb-extranet-mf-landingpage",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-gbweb-extranet-mf-landingpage",
+      "projectName": "franq-gbweb-extranet-mf-landingpage"
+    }
+  },
+  {
+    "name": "finlegal-plataforma-lei-do-bem-testegluefernando",
+    "url": "https://github.com/grupoboticario/finlegal-plataforma-lei-do-bem-testegluefernando",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-plataforma-lei-do-bem-testegluefernando",
+      "projectName": "finlegal-plataforma-lei-do-bem-testegluefernando"
+    }
+  },
+  {
+    "name": "finlegal-condpag-doc-builder",
+    "url": "https://github.com/grupoboticario/finlegal-condpag-doc-builder",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-condpag-doc-builder",
+      "projectName": "finlegal-condpag-doc-builder"
+    }
+  },
+  {
+    "name": "vd-reseller-intention-integration-doc",
+    "url": "https://github.com/grupoboticario/vd-reseller-intention-integration-doc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-reseller-intention-integration-doc",
+      "projectName": "vd-reseller-intention-integration-doc"
+    }
+  },
+  {
+    "name": "ecomm-marketplace-fulfillment-invoice-meli-worker",
+    "url": "https://github.com/grupoboticario/ecomm-marketplace-fulfillment-invoice-meli-worker",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-marketplace-fulfillment-meli-invoice-worker",
+      "projectName": "arq-marketplace-fulfillment-meli-invoice-worker"
+    }
+  },
+  {
+    "name": "data-platform-service-account",
+    "url": "https://github.com/grupoboticario/data-platform-service-account",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-arq-arquitetura-de-dados-data-platform-service-account",
+      "projectName": "data-arq-arquitetura-de-dados-data-platform-service-account"
+    }
+  },
+  {
+    "name": "loyalty-service",
+    "url": "https://github.com/grupoboticario/loyalty-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "loyalty-service",
+      "projectName": "loyalty-service"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-players-frontend",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-players-frontend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-players-frontend",
+      "projectName": "franq-lxp-lxp-players-frontend"
+    }
+  },
+  {
+    "name": "arqninja-files-fnc-set-drive-watcher",
+    "url": "https://github.com/grupoboticario/arqninja-files-fnc-set-drive-watcher",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-arq-arquitetura-de-dados-arqninja-files-fnc-set-drive-watcher",
+      "projectName": "data-arq-arquitetura-de-dados-arqninja-files-fnc-set-drive-watcher"
+    }
+  },
+  {
+    "name": "arqninja-files-fnc-handle-create-file",
+    "url": "https://github.com/grupoboticario/arqninja-files-fnc-handle-create-file",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-arq-arquitetura-de-dados-arqninja-files-fnc-handle-create-file",
+      "projectName": "data-arq-arquitetura-de-dados-arqninja-files-fnc-handle-create-file"
+    }
+  },
+  {
+    "name": "arqninja-files-fnc-insert-file-into-bq",
+    "url": "https://github.com/grupoboticario/arqninja-files-fnc-insert-file-into-bq",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-arq-arquitetura-de-dados-arqninja-files-fnc-insert-file-into-bq",
+      "projectName": "data-arq-arquitetura-de-dados-arqninja-files-fnc-insert-file-into-bq"
+    }
+  },
+  {
+    "name": "arqninja-files-triggers",
+    "url": "https://github.com/grupoboticario/arqninja-files-triggers",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-arq-arquitetura-de-dados-arqninja-files-triggers",
+      "projectName": "data-arq-arquitetura-de-dados-arqninja-files-triggers"
+    }
+  },
+  {
+    "name": "arqninja-files-airflow",
+    "url": "https://github.com/grupoboticario/arqninja-files-airflow",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-arq-arquitetura-de-dados-arqninja-files-airflow",
+      "projectName": "data-arq-arquitetura-de-dados-arqninja-files-airflow"
+    }
+  },
+  {
+    "name": "arqninja-files",
+    "url": "https://github.com/grupoboticario/arqninja-files",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-arq-arquitetura-de-dados-arqninja-files",
+      "projectName": "data-arq-arquitetura-de-dados-arqninja-files"
+    }
+  },
+  {
+    "name": "finlegal-plataforma-lei-do-bem-db-migrations",
+    "url": "https://github.com/grupoboticario/finlegal-plataforma-lei-do-bem-db-migrations",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-plataforma-lei-do-bem-db-migrations",
+      "projectName": "finlegal-plataforma-lei-do-bem-db-migrations"
+    }
+  },
+  {
+    "name": "colab-portal-colab-clickgb-gateway",
+    "url": "https://github.com/grupoboticario/colab-portal-colab-clickgb-gateway",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-portal-colab-clickgb-gateway",
+      "projectName": "colab-portal-colab-clickgb-gateway"
+    }
+  },
+  {
+    "name": "naoprop-gbweb-pedidos-frontend",
+    "url": "https://github.com/grupoboticario/naoprop-gbweb-pedidos-frontend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cnp-b2b-pedidos-pedidos-frontend",
+      "projectName": "cnp-b2b-pedidos-pedidos-frontend"
+    }
+  },
+  {
+    "name": "vd-portais-reseller-self-service",
+    "url": "https://github.com/grupoboticario/vd-portais-reseller-self-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-portais-reseller-self-service",
+      "projectName": "vd-portais-reseller-self-service"
+    }
+  },
+  {
+    "name": "data-sci-data-science-ds-pd-vertex-ppm-alertas",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-ds-pd-vertex-ppm-alertas",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-pd-vertex-ppm-alertas",
+      "projectName": "data-sci-data-science-ds-pd-vertex-ppm-alertas"
+    }
+  },
+  {
+    "name": "data-sci-data-science-openai-poc-cex",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-openai-poc-cex",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-openai-poc-cex",
+      "projectName": "data-sci-data-science-openai-poc-cex"
+    }
+  },
+  {
+    "name": "franq-lxp-lxp-players-library",
+    "url": "https://github.com/grupoboticario/franq-lxp-lxp-players-library",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-lxp-lxp-players-library",
+      "projectName": "franq-lxp-lxp-players-library"
+    }
+  },
+  {
+    "name": "cons-data-science-ds-brandexp-discovery-review-produtos",
+    "url": "https://github.com/grupoboticario/cons-data-science-ds-brandexp-discovery-review-produtos",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-data-science-ds-brandexp-discovery-review-produtos",
+      "projectName": "cons-data-science-ds-brandexp-discovery-review-produtos"
+    }
+  },
+  {
+    "name": "vd-instant-messenger-webchat",
+    "url": "https://github.com/grupoboticario/vd-instant-messenger-webchat",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-instant-messenger-webchat",
+      "projectName": "vd-instant-messenger-webchat"
+    }
+  },
+  {
+    "name": "finlegal-plataforma-lei-do-bem-ldb-data-management-layer",
+    "url": "https://github.com/grupoboticario/finlegal-plataforma-lei-do-bem-ldb-data-management-layer",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-plataforma-lei-do-bem-ldb-data-management-layer",
+      "projectName": "finlegal-plataforma-lei-do-bem-ldb-data-management-layer"
+    }
+  },
+  {
+    "name": "si-meu-acesso-gb-transforms-sbx",
+    "url": "https://github.com/grupoboticario/si-meu-acesso-gb-transforms-sbx",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "si-meu-acesso-gb-transforms-sbx",
+      "projectName": "si-meu-acesso-gb-transforms-sbx"
+    }
+  },
+  {
+    "name": "ds-fds-ftp-potencial-regiao",
+    "url": "https://github.com/grupoboticario/ds-fds-ftp-potencial-regiao",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-fds-footprint-potencial-regiao",
+      "projectName": "data-sci-data-science-ds-fds-footprint-potencial-regiao"
+    }
+  },
+  {
+    "name": "data-sci-data-science-chatgpt-poc-integracao",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-chatgpt-poc-integracao",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-chatgpt-poc-integracao",
+      "projectName": "data-sci-data-science-chatgpt-poc-integracao"
+    }
+  },
+  {
+    "name": "pl-plataforma-logistica-gblogentregas",
+    "url": "https://github.com/grupoboticario/pl-plataforma-logistica-gblogentregas",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "pl-plataforma-logistica-gblogentregas",
+      "projectName": "pl-plataforma-logistica-gblogentregas"
+    }
+  },
+  {
+    "name": "vd-vd-gestao-resultados-fvc-gestao-resultados-core",
+    "url": "https://github.com/grupoboticario/vd-vd-gestao-resultados-fvc-gestao-resultados-core",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vd-gestao-resultados-fvc-gestao-resultados-core",
+      "projectName": "vd-vd-gestao-resultados-fvc-gestao-resultados-core"
+    }
+  },
+  {
+    "name": "ds-vd-case-ativo-guilherme",
+    "url": "https://github.com/grupoboticario/ds-vd-case-ativo-guilherme",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-data-science-case-ativo-guilherme",
+      "projectName": "vd-data-science-case-ativo-guilherme"
+    }
+  },
+  {
+    "name": "arq-green-it-carbon-monitoring-service",
+    "url": "https://github.com/grupoboticario/arq-green-it-carbon-monitoring-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-green-it-carbon-monitoring-service",
+      "projectName": "arq-green-it-carbon-monitoring-service"
+    }
+  },
+  {
+    "name": "ds-fds-lj-omni-template",
+    "url": "https://github.com/grupoboticario/ds-fds-lj-omni-template",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-fds-lj-omni-template",
+      "projectName": "data-sci-data-science-ds-fds-lj-omni-template"
+    }
+  },
+  {
+    "name": "vd-direct-sale-paymentbond-payment-bond-doc",
+    "url": "https://github.com/grupoboticario/vd-direct-sale-paymentbond-payment-bond-doc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-direct-sale-paymentbond-payment-bond-doc",
+      "projectName": "vd-direct-sale-paymentbond-payment-bond-doc"
+    }
+  },
+  {
+    "name": "cnp-b2b-b2b-architecture-system-data",
+    "url": "https://github.com/grupoboticario/cnp-b2b-b2b-architecture-system-data",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cnp-b2b-b2b-architecture-system-data",
+      "projectName": "cnp-b2b-b2b-architecture-system-data"
+    }
+  },
+  {
+    "name": "url-shortener",
+    "url": "https://github.com/grupoboticario/url-shortener",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-cadastro-e-inicio-url-shortner",
+      "projectName": "vd-cadastro-e-inicio-url-shortner"
+    }
+  },
+  {
+    "name": "arq-plataforma-mfe-artefatos-monorepo",
+    "url": "https://github.com/grupoboticario/arq-plataforma-mfe-artefatos-monorepo",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-plataforma-mfe-artefatos-monorepo",
+      "projectName": "arq-plataforma-mfe-artefatos-monorepo"
+    }
+  },
+  {
+    "name": "franq-qualidade-cex-front-quali",
+    "url": "https://github.com/grupoboticario/franq-qualidade-cex-front-quali",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-qualidade-cex-front-quali",
+      "projectName": "franq-qualidade-cex-front-quali"
+    }
+  },
+  {
+    "name": "ds-fds-ftp-lib",
+    "url": "https://github.com/grupoboticario/ds-fds-ftp-lib",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-fds-ftp-lib",
+      "projectName": "data-sci-data-science-ds-fds-ftp-lib"
+    }
+  },
+  {
+    "name": "data-sci-data-science-delete-test-template-jordy",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-delete-test-template-jordy",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-delete-test-template-jordy",
+      "projectName": "data-sci-data-science-delete-test-template-jordy"
+    }
+  },
+  {
+    "name": "data-sci-data-science-test-template-jordy-delete-later",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-test-template-jordy-delete-later",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-test-template-jordy-delete-later",
+      "projectName": "data-sci-data-science-test-template-jordy-delete-later"
+    }
+  },
+  {
+    "name": "dea-integracao-freigh-order",
+    "url": "https://github.com/grupoboticario/dea-integracao-freigh-order",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-integracao-freight-order",
+      "projectName": "dea-integracao-freight-order"
+    }
+  },
+  {
+    "name": "dea-itg-s4-freight-order",
+    "url": "https://github.com/grupoboticario/dea-itg-s4-freight-order",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-itg-s4-freight-order",
+      "projectName": "dea-itg-s4-freight-order"
+    }
+  },
+  {
+    "name": "plat-eng-alquimia-poc-acessos",
+    "url": "https://github.com/grupoboticario/plat-eng-alquimia-poc-acessos",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "plat-eng-alquimia-poc-acessos",
+      "projectName": "plat-eng-alquimia-poc-acessos"
+    }
+  },
+  {
+    "name": "vd-reseller-credit-rules-reseller-credit-rules-doc",
+    "url": "https://github.com/grupoboticario/vd-reseller-credit-rules-reseller-credit-rules-doc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-reseller-credit-rules-reseller-credit-rules-doc",
+      "projectName": "vd-reseller-credit-rules-reseller-credit-rules-doc"
+    }
+  },
+  {
+    "name": "ds-portfolio-otimizador-corpo-e-banho",
+    "url": "https://github.com/grupoboticario/ds-portfolio-otimizador-corpo-e-banho",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-ds-porfolio-ciclo-de-vida",
+      "projectName": "data-sci-data-science-ds-porfolio-ciclo-de-vida"
+    }
+  },
+  {
+    "name": "vd-cart-create-commitment-service",
+    "url": "https://github.com/grupoboticario/vd-cart-create-commitment-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-cart-create-commitment",
+      "projectName": "vd-cart-create-commitment"
+    }
+  },
+  {
+    "name": "dea-s4-tech-dashboard-sell-out",
+    "url": "https://github.com/grupoboticario/dea-s4-tech-dashboard-sell-out",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-s4-tech-dashboard-sell-out",
+      "projectName": "dea-s4-tech-dashboard-sell-out"
+    }
+  },
+  {
+    "name": "vd-cart-expired-commitment-service",
+    "url": "https://github.com/grupoboticario/vd-cart-expired-commitment-service",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-cart-expired-commitment-service",
+      "projectName": "vd-cart-expired-commitment-service"
+    }
+  },
+  {
+    "name": "finlegal-finance-platform-franchise-load-consumer-doc",
+    "url": "https://github.com/grupoboticario/finlegal-finance-platform-franchise-load-consumer-doc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-finance-platform-franchise-load-consumer-doc",
+      "projectName": "finlegal-finance-platform-franchise-load-consumer-doc"
+    }
+  },
+  {
+    "name": "data-sci-data-science-chatgpt-otimizador",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-chatgpt-otimizador",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-codagrupador-chatgpt",
+      "projectName": "data-sci-data-science-codagrupador-chatgpt"
+    }
+  },
+  {
+    "name": "data-sci-data-science-hackaton-ia",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-hackaton-ia",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-hackaton-ia",
+      "projectName": "data-sci-data-science-hackaton-ia"
+    }
+  },
+  {
+    "name": "franq-gcam-data-retail-price",
+    "url": "https://github.com/grupoboticario/franq-gcam-data-retail-price",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-gcam-data-retail-price",
+      "projectName": "data-retail-price"
+    }
+  },
+  {
+    "name": "franq-gcam-data-gcam-retail-marketing-catalog",
+    "url": "https://github.com/grupoboticario/franq-gcam-data-gcam-retail-marketing-catalog",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-gcam-data-gcam-retail-marketing-catalog",
+      "projectName": "data-gcam-retail-marketing-catalog"
+    }
+  },
+  {
+    "name": "data-sci-ecommerce-ds-ecomm-marketplace-frete-buybox",
+    "url": "https://github.com/grupoboticario/data-sci-ecommerce-ds-ecomm-marketplace-frete-buybox",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-ecommerce-ds-ecomm-marketplace-frete-buybox",
+      "projectName": "data-sci-ecommerce-ds-ecomm-marketplace-frete-buybox"
+    }
+  },
+  {
+    "name": "ecomm-data-science-buybox-criterio-frete",
+    "url": "https://github.com/grupoboticario/ecomm-data-science-buybox-criterio-frete",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "ecomm-data-science-buybox-criterio-frete",
+      "projectName": "ecomm-data-science-buybox-criterio-frete"
+    }
+  },
+  {
+    "name": "franq-gcam-data-gcam-marketing-vegan",
+    "url": "https://github.com/grupoboticario/franq-gcam-data-gcam-marketing-vegan",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-gcam-data-gcam-marketing-vegan",
+      "projectName": "data-gcam-marketing-vegan"
+    }
+  },
+  {
+    "name": "arq-green-it-actions-carbon-monitoring",
+    "url": "https://github.com/grupoboticario/arq-green-it-actions-carbon-monitoring",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-green-it-actions-carbon-monitoring",
+      "projectName": "arq-green-it-actions-carbon-monitoring"
+    }
+  },
+  {
+    "name": "tf-aws-si-secure-culture-stefano-infra-terraform",
+    "url": "https://github.com/grupoboticario/tf-aws-si-secure-culture-stefano-infra-terraform",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "si-secure-culture-fernando-infra-treinamento",
+      "projectName": "si-secure-culture-fernando-infra-treinamento"
+    }
+  },
+  {
+    "name": "vd-gpp-incentive-integration-docs",
+    "url": "https://github.com/grupoboticario/vd-gpp-incentive-integration-docs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-gpp-incentive-integration-docs",
+      "projectName": "vd-gpp-incentive-integration-docs"
+    }
+  },
+  {
+    "name": "colab-pocs-colaborador-poc-lambda",
+    "url": "https://github.com/grupoboticario/colab-pocs-colaborador-poc-lambda",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-pocs-colaborador-poc-lambda",
+      "projectName": "colab-pocs-colaborador-poc-lambda"
+    }
+  },
+  {
+    "name": "franq-gcam-data-marketing-detail",
+    "url": "https://github.com/grupoboticario/franq-gcam-data-marketing-detail",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-gcam-data-marketing-detail",
+      "projectName": "data-marketing-detail"
+    }
+  },
+  {
+    "name": "intern-ecommerce-oboticario-dev-hydrogen",
+    "url": "https://github.com/grupoboticario/intern-ecommerce-oboticario-dev-hydrogen",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "intern-ecommerce-oboticario-dev-hydrogen",
+      "projectName": "intern-ecommerce-oboticario-dev-hydrogen"
+    }
+  },
+  {
+    "name": "vd-sellout-minhaloja-e2e-tests",
+    "url": "https://github.com/grupoboticario/vd-sellout-minhaloja-e2e-tests",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-sellout-minhaloja-e2e-tests",
+      "projectName": "vd-sellout-minhaloja-e2e-tests"
+    }
+  },
+  {
+    "name": "colab-ccl-slack-accessibility-ccmcl-discriminatory-terms-bot",
+    "url": "https://github.com/grupoboticario/colab-ccl-slack-accessibility-ccmcl-discriminatory-terms-bot",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-ccl-slack-accessibility-ccmcl-discriminatory-terms-bot",
+      "projectName": "colab-ccl-slack-accessibility-ccmcl-discriminatory-terms-bot"
+    }
+  },
+  {
+    "name": "finlegal-finance-platform-boletos-b2b-frontend",
+    "url": "https://github.com/grupoboticario/finlegal-finance-platform-boletos-b2b-frontend",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.sonarProjectId}}",
+      "projectName": "{{parameters.sonarProjectId}}"
+    }
+  },
+  {
+    "name": "data-platform-datahub-helm",
+    "url": "https://github.com/grupoboticario/data-platform-datahub-helm",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-arq-arquitetura-de-dados-datahub",
+      "projectName": "data-arq-arquitetura-de-dados-datahub"
+    }
+  },
+  {
+    "name": "finlegal-condpag-schedule-ecc-integration",
+    "url": "https://github.com/grupoboticario/finlegal-condpag-schedule-ecc-integration",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-condpag-schedule-ecc-integration",
+      "projectName": "finlegal-condpag-schedule-ecc-integration"
+    }
+  },
+  {
+    "name": "infra-infraestrutura-librenms",
+    "url": "https://github.com/grupoboticario/infra-infraestrutura-librenms",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "infra-infraestrutura-librenms",
+      "projectName": "infra-infraestrutura-librenms"
+    }
+  },
+  {
+    "name": "arq-pocs-k6-data-gen",
+    "url": "https://github.com/grupoboticario/arq-pocs-k6-data-gen",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-pocs-k6-data-gen",
+      "projectName": "arq-pocs-k6-data-gen"
+    }
+  },
+  {
+    "name": "loja-digital-new-integration-employee",
+    "url": "https://github.com/grupoboticario/loja-digital-new-integration-employee",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-loja-digital-employee",
+      "projectName": "cons-loja-digital-employee"
+    }
+  },
+  {
+    "name": "loja-digital-integration-ingress",
+    "url": "https://github.com/grupoboticario/loja-digital-integration-ingress",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "loja-digital-integration-ingress",
+      "projectName": "loja-digital-integration-ingress"
+    }
+  },
+  {
+    "name": "finlegal-servicos-financeiros-seguros-status-tech-doc",
+    "url": "https://github.com/grupoboticario/finlegal-servicos-financeiros-seguros-status-tech-doc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-servicos-financeiros-seguros-status-tech-doc",
+      "projectName": "finlegal-servicos-financeiros-seguros-status-tech-doc"
+    }
+  },
+  {
+    "name": "dea-infraestrutura-module-pmm",
+    "url": "https://github.com/grupoboticario/dea-infraestrutura-module-pmm",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-infraestrutura-module-pmm",
+      "projectName": "dea-infraestrutura-module-pmm"
+    }
+  },
+  {
+    "name": "vd-resseller-notification-integration-direct-sale-reseller-notification-integration-api",
+    "url": "https://github.com/grupoboticario/vd-resseller-notification-integration-direct-sale-reseller-notification-integration-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-resseller-notification-integration-direct-sale-reseller-notification-integration-api",
+      "projectName": "vd-resseller-notification-integration-direct-sale-reseller-notification-integration-api"
+    }
+  },
+  {
+    "name": "data-sci-data-science-hackaton-genai-samples",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-hackaton-genai-samples",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-hackaton-genai-samples",
+      "projectName": "data-sci-data-science-hackaton-genai-samples"
+    }
+  },
+  {
+    "name": "vd-resseller-notification-integration-api-docs",
+    "url": "https://github.com/grupoboticario/vd-resseller-notification-integration-api-docs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-resseller-notification-integration-api-docs",
+      "projectName": "vd-resseller-notification-integration-api-docs"
+    }
+  },
+  {
+    "name": "cons-data-science-acessibilidade-bq-gb",
+    "url": "https://github.com/grupoboticario/cons-data-science-acessibilidade-bq-gb",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-data-science-acessibilidade-bq-gb",
+      "projectName": "cons-data-science-acessibilidade-bq-gb"
+    }
+  },
+  {
+    "name": "actions-cd-iis-copy-item",
+    "url": "https://github.com/grupoboticario/actions-cd-iis-copy-item",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-estruturante-venda-direta-actions-cd-iis-copy-item",
+      "projectName": "vd-estruturante-venda-direta-actions-cd-iis-copy-item"
+    }
+  },
+  {
+    "name": "finlegal-servicos-financeiros-poc-json-to-csv",
+    "url": "https://github.com/grupoboticario/finlegal-servicos-financeiros-poc-json-to-csv",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-servicos-financeiros-poc-json-to-csv",
+      "projectName": "poc-json-to-csv"
+    }
+  },
+  {
+    "name": "vd-vdi-mfe-menu",
+    "url": "https://github.com/grupoboticario/vd-vdi-mfe-menu",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vdi-mfe-menu",
+      "projectName": "vd-vdi-mfe-menu"
+    }
+  },
+  {
+    "name": "data-sci-data-science-guilda-scraping",
+    "url": "https://github.com/grupoboticario/data-sci-data-science-guilda-scraping",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "data-sci-data-science-data-sci-data-science-guilda-scraping",
+      "projectName": "data-sci-data-science-data-sci-data-science-guilda-scraping"
+    }
+  },
+  {
+    "name": "vd-psv",
+    "url": "https://github.com/grupoboticario/vd-psv",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-estruturante-venda-direta-vd-psv",
+      "projectName": "vd-estruturante-venda-direta-vd-psv"
+    }
+  },
+  {
+    "name": "dea-s4-tech-btp-sd-funcionario-teste",
+    "url": "https://github.com/grupoboticario/dea-s4-tech-btp-sd-funcionario-teste",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-s4-tech-btp-sd-funcionario-teste",
+      "projectName": "dea-s4-tech-btp-sd-funcionario-teste"
+    }
+  },
+  {
+    "name": "sap-devops-test-deploy-kyma",
+    "url": "https://github.com/grupoboticario/sap-devops-test-deploy-kyma",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "sap-devops-test-deploy-kyma",
+      "projectName": "sap-devops-test-deploy-kyma"
+    }
+  },
+  {
+    "name": "finlegal-plataforma-lei-do-bem-backend-rdsproxy-lambdalayer",
+    "url": "https://github.com/grupoboticario/finlegal-plataforma-lei-do-bem-backend-rdsproxy-lambdalayer",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-plataforma-lei-do-bem-backend-rdsproxy-lambdalayer",
+      "projectName": "finlegal-plataforma-lei-do-bem-backend-rdsproxy-lambdalayer"
+    }
+  },
+  {
+    "name": "btp-tec-pocthiago",
+    "url": "https://github.com/grupoboticario/btp-tec-pocthiago",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-s4-tech-btp-tec-pocthiago",
+      "projectName": "dea-s4-tech-btp-tec-pocthiago"
+    }
+  },
+  {
+    "name": "fiori-tec-pocthiago",
+    "url": "https://github.com/grupoboticario/fiori-tec-pocthiago",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-s4-tech-fiori-tec-pocthiago",
+      "projectName": "dea-s4-tech-fiori-tec-pocthiago"
+    }
+  },
+  {
+    "name": "cnp-b2b-integra-integra-b2b-docs",
+    "url": "https://github.com/grupoboticario/cnp-b2b-integra-integra-b2b-docs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cnp-b2b-integra-integra-b2b-docs",
+      "projectName": "cnp-b2b-integra-integra-b2b-docs"
+    }
+  },
+  {
+    "name": "dea-rastreabilidade-kairos-sync-consumer",
+    "url": "https://github.com/grupoboticario/dea-rastreabilidade-kairos-sync-consumer",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-rastreabilidade-kairos-sync-consumer",
+      "projectName": "dea-rastreabilidade-kairos-sync-consumer"
+    }
+  },
+  {
+    "name": "dea-s4-tech-btp-tec-poc",
+    "url": "https://github.com/grupoboticario/dea-s4-tech-btp-tec-poc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-s4-tech-btp-tec-poc",
+      "projectName": "dea-s4-tech-btp-tec-poc"
+    }
+  },
+  {
+    "name": "dados-colab-integracao-lambda-sync-bases",
+    "url": "https://github.com/grupoboticario/dados-colab-integracao-lambda-sync-bases",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-dados-integracao-collaborator-di-lambda-sync-bases",
+      "projectName": "colab-dados-integracao-collaborator-di-lambda-sync-bases"
+    }
+  },
+  {
+    "name": "colab-data-lake-lambda-sync-bases",
+    "url": "https://github.com/grupoboticario/colab-data-lake-lambda-sync-bases",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-data-lake-lambda-sync-bases",
+      "projectName": "lambda-sync-bases"
+    }
+  },
+  {
+    "name": "colab-extrato-rv-remfopag-remuneracao-variavel-bff",
+    "url": "https://github.com/grupoboticario/colab-extrato-rv-remfopag-remuneracao-variavel-bff",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-extrato-rv-remfopag-remuneracao-variavel-bff",
+      "projectName": "colab-extrato-rv-remfopag-remuneracao-variavel-bff"
+    }
+  },
+  {
+    "name": "vd-vdi-core-architecture-demo",
+    "url": "https://github.com/grupoboticario/vd-vdi-core-architecture-demo",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vdi-core-architecture-demo",
+      "projectName": "vd-vdi-core-architecture-demo"
+    }
+  },
+  {
+    "name": "dea-s4-tech-fiori-sd-funcionario-teste",
+    "url": "https://github.com/grupoboticario/dea-s4-tech-fiori-sd-funcionario-teste",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-s4-tech-fiori-sd-funcionario-teste",
+      "projectName": "dea-s4-tech-fiori-sd-funcionario-teste"
+    }
+  },
+  {
+    "name": "finlegal-portal-governanca-backend-v2",
+    "url": "https://github.com/grupoboticario/finlegal-portal-governanca-backend-v2",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-portal-governanca-backend-v2",
+      "projectName": "finlegal-portal-governanca-backend-v2"
+    }
+  },
+  {
+    "name": "vd-profile-ai",
+    "url": "https://github.com/grupoboticario/vd-profile-ai",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-profile-ai",
+      "projectName": "profile-ai"
+    }
+  },
+  {
+    "name": "finlegal-antifraude-caf-camunda-poc-front",
+    "url": "https://github.com/grupoboticario/finlegal-antifraude-caf-camunda-poc-front",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "finlegal-antifraude-caf-camunda-poc-front",
+      "projectName": "finlegal-antifraude-caf-camunda-poc-front"
+    }
+  },
+  {
+    "name": "cons-servicos-de-agendamento-agendamento-app-app",
+    "url": "https://github.com/grupoboticario/cons-servicos-de-agendamento-agendamento-app-app",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-servicos-de-agendamento-agendamento-app-app",
+      "projectName": "cons-servicos-de-agendamento-agendamento-app-app"
+    }
+  },
+  {
+    "name": "colab-plataforma-beneficios-cbbe-pedido-beneficio-ms",
+    "url": "https://github.com/grupoboticario/colab-plataforma-beneficios-cbbe-pedido-beneficio-ms",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "colab-plataforma-beneficios-cbbe-pedido-beneficio-ms",
+      "projectName": "colab-plataforma-beneficios-cbbe-pedido-beneficio-ms"
+    }
+  },
+  {
+    "name": "cons-data-science-cex-crc-nlp",
+    "url": "https://github.com/grupoboticario/cons-data-science-cex-crc-nlp",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-data-science-cex-crc-nlp",
+      "projectName": "cons-data-science-cex-crc-nlp"
+    }
+  },
+  {
+    "name": "cons-loja-digital-loja-digital-test-cloudfront",
+    "url": "https://github.com/grupoboticario/cons-loja-digital-loja-digital-test-cloudfront",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-loja-digital-loja-digital-test-cloudfront",
+      "projectName": "cons-loja-digital-loja-digital-test-cloudfront"
+    }
+  },
+  {
+    "name": "dea-s4-tech-s4hana-abap-archive",
+    "url": "https://github.com/grupoboticario/dea-s4-tech-s4hana-abap-archive",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-s4-tech-s4hana-abap-archive",
+      "projectName": "dea-s4-tech-s4hana-abap-archive"
+    }
+  },
+  {
+    "name": "prodfin-gateway-online-payments-lambda-custom-authorizer",
+    "url": "https://github.com/grupoboticario/prodfin-gateway-online-payments-lambda-custom-authorizer",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "prodfin-gateway-online-payments-lambda-custom-authorizer",
+      "projectName": "prodfin-gateway-online-payments-lambda-custom-authorizer"
+    }
+  },
+  {
+    "name": "vd-cart-mcqueen-api",
+    "url": "https://github.com/grupoboticario/vd-cart-mcqueen-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-cart-mcqueen-api",
+      "projectName": "vd-cart-mcqueen-api"
+    }
+  },
+  {
+    "name": "franq-integration-hub-mobile-app",
+    "url": "https://github.com/grupoboticario/franq-integration-hub-mobile-app",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "vd-vd-inteligencia-ativacao-lambda-provider",
+    "url": "https://github.com/grupoboticario/vd-vd-inteligencia-ativacao-lambda-provider",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vd-inteligencia-ativacao-lambda-provider",
+      "projectName": "vd-vd-inteligencia-ativacao-lambda-provider"
+    }
+  },
+  {
+    "name": "cons-pocs-gb-login",
+    "url": "https://github.com/grupoboticario/cons-pocs-gb-login",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-pocs-gb-login",
+      "projectName": "cons-pocs-gb-login"
+    }
+  },
+  {
+    "name": "plat-eng-ferramenta-de-arquitetura-moodle-tech-ninjas",
+    "url": "https://github.com/grupoboticario/plat-eng-ferramenta-de-arquitetura-moodle-tech-ninjas",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "plat-eng-ferramenta-de-arquitetura-moodle-tech-ninjas",
+      "projectName": "plat-eng-ferramenta-de-arquitetura-moodle-tech-ninjas"
+    }
+  },
+  {
+    "name": "dea-oms-lifecycle-oms-lifecycle-router-micro-frontend",
+    "url": "https://github.com/grupoboticario/dea-oms-lifecycle-oms-lifecycle-router-micro-frontend",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-oms-lifecycle-oms-lifecycle-router-micro-frontend",
+      "projectName": "dea-oms-lifecycle-oms-lifecycle-router-micro-frontend"
+    }
+  },
+  {
+    "name": "plat-eng-green-it-grafana-poc",
+    "url": "https://github.com/grupoboticario/plat-eng-green-it-grafana-poc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "plat-eng-green-it-grafana-poc",
+      "projectName": "plat-eng-green-it-grafana-poc"
+    }
+  },
+  {
+    "name": "plat-eng-green-it-poc-serverless-code-carbon",
+    "url": "https://github.com/grupoboticario/plat-eng-green-it-poc-serverless-code-carbon",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "plat-eng-green-it-poc-serverless-code-carbon",
+      "projectName": "plat-eng-green-it-poc-serverless-code-carbon"
+    }
+  },
+  {
+    "name": "colab-pocs-colaborador-stepfunction-event-filter",
+    "url": "https://github.com/grupoboticario/colab-pocs-colaborador-stepfunction-event-filter",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "-pocs-colaborador-stepfunction-event-filter",
+      "projectName": "-pocs-colaborador-stepfunction-event-filter"
+    }
+  },
+  {
+    "name": "plat-eng-sre-apis-sre-test-node-group",
+    "url": "https://github.com/grupoboticario/plat-eng-sre-apis-sre-test-node-group",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "plat-eng-sre-apis-sre-test-node-group",
+      "projectName": "plat-eng-sre-apis-sre-test-node-group"
+    }
+  },
+  {
+    "name": "arq-github-graph-visualization",
+    "url": "https://github.com/grupoboticario/arq-github-graph-visualization",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "arq-green-it-carbon-monitoring-sample-pipeline",
+    "url": "https://github.com/grupoboticario/arq-green-it-carbon-monitoring-sample-pipeline",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "si-botty-pocn8n",
+    "url": "https://github.com/grupoboticario/si-botty-pocn8n",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "cons-loyalty-cdc-gcp",
+    "url": "https://github.com/grupoboticario/cons-loyalty-cdc-gcp",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-loyalty-cdc-gcp",
+      "projectName": "cons-loyalty-cdc-gcp"
+    }
+  },
+  {
+    "name": "data-arq-arquitetura-de-dados-dataplat-microservices-doc",
+    "url": "https://github.com/grupoboticario/data-arq-arquitetura-de-dados-dataplat-microservices-doc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "finlegal-condpag-new-backend-api",
+    "url": "https://github.com/grupoboticario/finlegal-condpag-new-backend-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "-condpag-new-backend-api",
+      "projectName": "-condpag-new-backend-api"
+    }
+  },
+  {
+    "name": "dataplat-products-pocs",
+    "url": "https://github.com/grupoboticario/dataplat-products-pocs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "tf-aws-project-sizi-resources",
+    "url": "https://github.com/grupoboticario/tf-aws-project-sizi-resources",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "vd-vdi-ci-logs",
+    "url": "https://github.com/grupoboticario/vd-vdi-ci-logs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "vd-vdi-ci-logs",
+      "projectName": "vd-vdi-ci-logs"
+    }
+  },
+  {
+    "name": "prodfin-gateway-online-payments-gb-card-token",
+    "url": "https://github.com/grupoboticario/prodfin-gateway-online-payments-gb-card-token",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "prodfin-gateway-online-payments-gb-card-token",
+      "projectName": "prodfin-gateway-online-payments-gb-card-token"
+    }
+  },
+  {
+    "name": "cons-loyalty-sales-processor",
+    "url": "https://github.com/grupoboticario/cons-loyalty-sales-processor",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-loyalty-sales-processor",
+      "projectName": "cons-loyalty-sales-processor"
+    }
+  },
+  {
+    "name": "cons-loyalty-wallet-processor",
+    "url": "https://github.com/grupoboticario/cons-loyalty-wallet-processor",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cons-loyalty-wallet-processor",
+      "projectName": "cons-loyalty-wallet-processor"
+    }
+  },
+  {
+    "name": "plat-eng-plat-core-sonar-overall-poc",
+    "url": "https://github.com/grupoboticario/plat-eng-plat-core-sonar-overall-poc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "plat-eng-plat-core-sonar-overall-poc",
+      "projectName": "plat-eng-plat-core-sonar-overall-poc"
+    }
+  },
+  {
+    "name": "ped-poc-plm-auth-validation",
+    "url": "https://github.com/grupoboticario/ped-poc-plm-auth-validation",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "ped-poc-plm-auth-validation",
+      "projectName": "ped-poc-plm-auth-validation"
+    }
+  },
+  {
+    "name": "plat-eng-sre-apis-opsgenie-test",
+    "url": "https://github.com/grupoboticario/plat-eng-sre-apis-opsgenie-test",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "plat-eng-sre-apis-opsgenie-test",
+      "projectName": "plat-eng-sre-apis-opsgenie-test"
+    }
+  },
+  {
+    "name": "prodfin-gateway-online-payments-lambda-custom-authenticator",
+    "url": "https://github.com/grupoboticario/prodfin-gateway-online-payments-lambda-custom-authenticator",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "prodfin-gateway-online-payments-lambda-custom-authenticator",
+      "projectName": "prodfin-gateway-online-payments-lambda-custom-authenticator"
+    }
+  },
+  {
+    "name": "pl-plataforma-logistica-gbpl-hiring",
+    "url": "https://github.com/grupoboticario/pl-plataforma-logistica-gbpl-hiring",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "pl-plataforma-logistica-gbpl-hiring",
+      "projectName": "pl-plataforma-logistica-gbpl-hiring"
+    }
+  },
+  {
+    "name": "dea-gdem-pvsi-pvsi-lp-serverless",
+    "url": "https://github.com/grupoboticario/dea-gdem-pvsi-pvsi-lp-serverless",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "dea-gdem-pvsi-pvsi-lp-serverless",
+      "projectName": "dea-gdem-pvsi-pvsi-lp-serverless"
+    }
+  },
+  {
+    "name": "franq-pricing-camp-gpc-plataform",
+    "url": "https://github.com/grupoboticario/franq-pricing-camp-gpc-plataform",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-pricing-camp-gpc-plataform",
+      "projectName": "franq-pricing-camp-gpc-plataform"
+    }
+  },
+  {
+    "name": "poc-google-dataform-a",
+    "url": "https://github.com/grupoboticario/poc-google-dataform-a",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "-vd-dados-de-produto-step-function-poc",
+    "url": "https://github.com/grupoboticario/-vd-dados-de-produto-step-function-poc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "-vd-dados-de-produto-step-function-poc",
+      "projectName": "-vd-dados-de-produto-step-function-poc"
+    }
+  },
+  {
+    "name": "prodfin-banking-actions-deploy-notification-poc",
+    "url": "https://github.com/grupoboticario/prodfin-banking-actions-deploy-notification-poc",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "plat-eng-sre-apis-sre-test-alerts",
+    "url": "https://github.com/grupoboticario/plat-eng-sre-apis-sre-test-alerts",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "plat-eng-sre-apis-sre-test-alerts",
+      "projectName": "plat-eng-sre-apis-sre-test-alerts"
+    }
+  },
+  {
+    "name": "poc-google-dataform-b",
+    "url": "https://github.com/grupoboticario/poc-google-dataform-b",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "nexus-dea-devops-demo1",
+    "url": "https://github.com/grupoboticario/nexus-dea-devops-demo1",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "nexus-dea-devops-demo1",
+      "projectName": "nexus-dea-devops-demo1"
+    }
+  },
+  {
+    "name": "nexus-dea-devops-demo2",
+    "url": "https://github.com/grupoboticario/nexus-dea-devops-demo2",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "nexus-dea-devops-demo2",
+      "projectName": "nexus-dea-devops-demo2"
+    }
+  },
+  {
+    "name": "cnp-plataforma-logistica-gbpl-reverse-orders",
+    "url": "https://github.com/grupoboticario/cnp-plataforma-logistica-gbpl-reverse-orders",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "cnp-plataforma-logistica-gbpl-reverse-orders",
+      "projectName": "cnp-plataforma-logistica-gbpl-reverse-orders"
+    }
+  },
+  {
+    "name": "ecomm-devops-stress-tests",
+    "url": "https://github.com/grupoboticario/ecomm-devops-stress-tests",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "plat-dados-dataplat-products-chatgb-ia-day",
+    "url": "https://github.com/grupoboticario/plat-dados-dataplat-products-chatgb-ia-day",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "rpa-rpa-ch-tecnologia-it-template-multifuncional-disp",
+    "url": "https://github.com/grupoboticario/rpa-rpa-ch-tecnologia-it-template-multifuncional-disp",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "franq-varejo-facil-tf-aws-project-varejofacil-database-resources",
+    "url": "https://github.com/grupoboticario/franq-varejo-facil-tf-aws-project-varejofacil-database-resources",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  }
+]

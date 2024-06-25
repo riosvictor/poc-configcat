@@ -1,117 +1,80 @@
-const baseUrl = 'https://api.configcat.com';
+import { createAppAuth } from '@octokit/auth-app'
+import { request } from '@octokit/request'
+import axios from 'axios'
+import properties from 'properties'
 
-type TProduct = {
-  productId: string;
-  name?: string;
-  description?: string;
-  order: number;
-  reasonRequired: boolean;
-}
-type TPermission = {
-  permissionGroupId: number,
-  name: string,
-}
 type TResponse<T> = {
   ok: boolean;
   data?: T;
   error?: string;
 }
 
-const token = btoa(`${process.env.USERNAME}:${process.env.PASSWORD}`)
+async function getGithubConnObj(owner: string) {
+  const privateKeyName = process.env[`GITHUB_APP_PRIVATE_KEY_${owner}`]
+  if (privateKeyName === undefined) {
+    throw new Error(`Não foi possível recuperar o secret ${owner} de GITHUB_APP_PRIVATE_KEY_${owner}`)
+  }
+  const key = privateKeyName ? privateKeyName.replace(/#/gm, '\n') : ''
 
-export async function getProducts(): Promise<TProduct[]> {
-  const url = `${baseUrl}/v1/products`;
-  try {
-    const response = await fetch(url, {
-      headers: {
-        Authorization: `Basic ${token}`,
-      },
-    });
-
-    if (response.ok) {
-      const products = await response.json();
-      return products as TProduct[];
-    }
-
-    throw new Error(response.statusText);
-  } catch (error) {
-    console.error(JSON.stringify(error));
-    return [];
+  return {
+    appId: parseInt(process.env[`GITHUB_APP_ID_${owner}`]),
+    privateKey: key,
+    clientId: process.env[`GITHUB_APP_CLIENT_ID_${owner}`],
+    clientSecret: process.env[`GITHUB_APP_CLIENT_SECRET_${owner}`],
+    installationId: parseInt(process.env[`GITHUB_APP_INSTALL_ID_${owner}`])
   }
 }
 
-export async function createProduct(name: string): Promise<TResponse<TProduct>> {
-  const url = `${baseUrl}/v1/organizations/${process.env.ORG_ID}/products`;
-  try {
-    const response = await fetch(url, {
-      method: 'POST',
-      headers: {
-        Authorization: `Basic ${token}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        name,
-      }),
-    });
-    const data = await response.json() as TProduct;
+async function getGithubRequest(owner: string) {
+  const obj = await getGithubConnObj(owner)
 
-    if (response.ok) {
-      return {
-        ok: true,
-        data,
-      };
-    }
+  const appOctokit = createAppAuth(obj)
 
-    throw new Error(response.statusText);
-  } catch (error) {
-    console.error(JSON.stringify(error));
-    return {
-      ok: false,
-      error: (error as any)?.message || 'Unknown error',
+  return request.defaults({
+    request: {
+      hook: appOctokit.hook
     }
-  }
+  })
 }
 
-export async function addMembers(productId: string, emails: string[], permission: string): Promise<TResponse<any>> {
-  const responsePermission = await getPermissions(productId);
-
-  if (!responsePermission.ok) {
-    return {
-      ok: false,
-      error: 'Failed to get permissions',
-    };
-  }
-
-  const permissionId = responsePermission.data?.find((p) => p.name.toLowerCase() === permission.toLowerCase())?.permissionGroupId;
-
-  if (!permissionId) {
-    return {
-      ok: false,
-      error: 'Permission not found',
-    };
-  }
-
-  const url = `${baseUrl}/v1/products/${productId}/members/invite`;
+export async function getRepos(org: string): Promise<TResponse<any[]>> {
+  const data = []
+  const pageSize = 100
+  let page = 1
+  let hasMore = true
   try {
-    const response = await fetch(url, {
-      method: 'POST',
-      headers: {
-        Authorization: `Basic ${token}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        emails,
-        permissionGroupId: permissionId,
-      }),
-    });
+    const requestWithAuth = await getGithubRequest(org)
 
-    if (response.ok) {
-      return {
-        ok: true,
-      };
+    do {
+      console.log(`Fetching page ${page} - total ${data.length} - org ${org}`)
+
+      const response = await requestWithAuth('GET /orgs/{org}/repos', {
+        org,
+        per_page: pageSize,
+        page,
+        headers: {
+          'X-GitHub-Api-Version': '2022-11-28'
+        }
+      })
+
+      const mappedData = response.data.map((repo: any) => ({
+        name: repo.name,
+        description: repo.description,
+        url: repo.html_url,
+        archived: repo.archived,
+        disabled: repo.disabled,
+      }))
+
+      data.push(...mappedData)
+
+      page++
+      hasMore = response.headers.link?.includes('rel="next"') || false
+    } while (hasMore)
+
+    return {
+      ok: true,
+      data,
     }
-
-    throw new Error(response.statusText);
   } catch (error) {
     console.error(JSON.stringify(error));
     return {
@@ -121,26 +84,177 @@ export async function addMembers(productId: string, emails: string[], permission
   }
 }
 
-export async function getPermissions(productId: string): Promise<TResponse<TPermission[]>> {
-  const url = `${baseUrl}/v1/products/${productId}/permissions`;
+export async function repoContainsFilePath(request: any = undefined, org: string, repo: string, path: string): Promise<TResponse<any>> {
+  let requestWithAuth 
+  if (!request) {
+    requestWithAuth = await getGithubRequest(org)
+  } else {
+    requestWithAuth = request
+  }
+
   try {
-    const response = await fetch(url, {
-      method: 'GET',
+    const response = await requestWithAuth('GET /repos/{owner}/{repo}/contents/{path}', {
+      owner: org,
+      repo,
+      path,
       headers: {
-        Authorization: `Basic ${token}`,
-        'Content-Type': 'application/json',
+        'X-GitHub-Api-Version': '2022-11-28'
       }
-    });
+    })
 
-    if (response.ok) {
-      const permissions = await response.json() as TPermission[];
+    if (response.status === 200){
+      const fileData = Buffer.from(response.data.content, 'base64').toString('utf-8');
+      const lines = fileData.split('\n');
+      const propertiesData = properties.parse(lines.join('\n'));
+      
       return {
-        ok: true,
-        data: permissions,
-      };
+        ok: response.status === 200,
+        data: {
+          organization: propertiesData['sonar.organization'],
+          projectKey: propertiesData['sonar.projectKey'],
+          projectName: propertiesData['sonar.projectName'],
+        }
+      }  
     }
 
-    throw new Error(response.statusText);
+    return {
+      ok: response.status === 200,
+      data: response.data,
+    }
+  } catch (error) {
+    if ((error as any)?.status === 404) {
+      return {
+        ok: false,
+        error: `File ${path} not found in repo ${repo}`,
+      }
+    }
+
+    console.error(JSON.stringify(error));
+    return {
+      ok: false,
+      error: (error as any)?.message || 'Unknown error',
+    }
+  }
+}
+
+
+
+//
+const getSonarAuth = async (org: string) => {
+  const prefix = 'SONAR_TOKEN_';
+  let tokenKey = `${prefix}${org.toUpperCase()}`;
+
+  if (tokenKey === `${prefix}GRUPOBOTICARIO`) {
+    tokenKey = `${prefix}GBOTICARIO`;
+  }
+
+  const token = process.env[tokenKey];
+
+  if (token === undefined || token === null) {
+    throw new Error(`Invalid organization ${org} with token key ${tokenKey}`);
+  }
+
+  const buff = Buffer.from(token + ':', 'utf-8');
+
+  return `Basic ${buff.toString('base64')}`;
+};
+function convertGithubOrgToSonarOrg(githubOrg: string) {
+  if (githubOrg === undefined) {
+    console.log('github org is undefined')
+    console.trace()
+  }
+
+  if (process.env.SONAR_FORCE_ORG_ON_DEV === 'true') {
+    return 'gbsandbox'
+  }
+  if (githubOrg === 'grupoboticario') {
+    return 'gboticario'
+  }
+  return githubOrg
+}
+
+export async function getProjectsByName(organization: string, name: string, options: any = {}) {
+  options = { ...{ exact: false }, ...options };
+
+  const params = {
+    params: {
+      q: name,
+      organization
+    },
+    headers: {
+      Authorization: await getSonarAuth(organization)
+    }
+  };
+  try {
+    const response = await axios.post(`${process.env.SONAR_URL}/projects/search`, null, params);
+    if (options?.exact) {
+      return response.data.components.filter((c: any) => c.name === name);
+    }
+    return response.data.components;
+  } catch (err) {
+    const error = err as Error;
+    error.message = `function getProjectByName - ${error.message} - org ${organization} - name ${name}`;
+    throw err;
+  }
+};
+
+export async function listProjects(organization: string): Promise<TResponse<any[]>> {
+  const params = {
+    params: {
+      organization,
+      ps: 500,
+      p: 1
+    },
+    headers: {
+      Authorization: await getSonarAuth(organization)
+    }
+  };
+  
+  const data = [];
+  let hasMore = true;
+
+  try {
+    do {
+      const response = await axios.get(`${process.env.SONAR_URL}/projects/search`, params);
+    
+      if (response.data.components.length > 0) {
+        data.push(...response.data.components);
+      }
+
+      params.params.p++;
+      hasMore = response.data.components.length === 500;
+    } while (hasMore);
+    
+    
+    return {
+      ok: true,
+      data
+    };
+  } catch (error) {
+    console.error(JSON.stringify(error));
+    return {
+      ok: false,
+      error: (error as any)?.message || 'Unknown error',
+    }
+  }
+};
+
+export async function getProjectByKey(organization: string, key: string) {
+  const params = {
+    params: {
+      organization,
+      ps: 500,
+      p: 1,
+      projects: key
+    },
+    headers: {
+      Authorization: await getSonarAuth(organization)
+    }
+  };
+  try {
+    const response = await axios.get(`${process.env.SONAR_URL}/projects/search?organization=${organization}&ps=500&p=1&q=${key}`, params);
+    console.log(response.data)
+    return response.data.components;
   } catch (error) {
     console.error(JSON.stringify(error));
     return {
@@ -149,3 +263,80 @@ export async function getPermissions(productId: string): Promise<TResponse<TPerm
     }
   }
 }
+
+export async function deleteProject(organization: string, key: string) {
+  try {
+    const formDataBody = new URLSearchParams();
+    formDataBody.append('project', key);
+    const requestData = {
+      headers: {
+        Authorization: await getSonarAuth(organization),
+        'Content-Type': 'application/x-www-form-urlencoded'
+      }
+    };
+    const response = await axios.post(`${process.env.SONAR_URL}/projects/delete`, formDataBody, requestData);
+    return {
+      ok: true,
+      data: `Project ${key} deleted`
+    };
+  } catch (error) {
+    console.error(JSON.stringify(error));
+    return {
+      ok: false,
+      error: `${(error as any)?.message || 'Unknown error'} - org ${organization} - key ${key}`,
+    }
+  }
+}
+
+///////
+
+export async function reposContainsSonarFile(org: string, repos: any[]): Promise<TResponse<any[]>> {
+  const request = await getGithubRequest(org)
+  const sonarFiles = repos.map(async (repo) => {
+    await new Promise((resolve) => setTimeout(resolve, 1000))
+    const { ok, data } = await repoContainsFilePath(request, org, repo.name, 'sonar-project.properties')
+    if (ok) {
+      return {
+        name: repo.name,
+        url: repo.url,
+        sonar: data,
+      }
+    }
+    return undefined
+  })
+
+  const response = {
+    ok: true,
+    data: (await Promise.all(sonarFiles)).filter((repo) => repo !== undefined),
+  }
+
+  return response
+}
+
+export async function reposNotContainsSonarFile(org: string, repos: any[]): Promise<TResponse<any[]>> {
+  const request = await getGithubRequest(org)
+  const sonarFiles = repos.map(async (repo) => {
+    await new Promise((resolve) => setTimeout(resolve, 1000))
+    const { ok, data, error } = await repoContainsFilePath(request, org, repo.name, 'sonar-project.properties')
+    console.log(error || data)
+    if (error?.includes('not found')) {
+      return {
+        name: repo.name,
+        url: repo.url,
+        sonar: 'not found',
+      }
+    }
+    if(ok){
+      return undefined
+    }
+    return repo
+  })
+
+  const response = {
+    ok: true,
+    data: (await Promise.all(sonarFiles)).filter((repo) => repo !== undefined),
+  }
+
+  return response
+}
+

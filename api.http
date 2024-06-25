@@ -6,7 +6,7 @@ GET http://localhost:3000/products
 Content-Type: application/json
 
 {
-  "search": "esg-social-empreendedorasdabeleza"
+  "search": "plataforma ecomm"
 }
 
 ### CREATE A NEW PRODUCT
@@ -14,11 +14,12 @@ POST http://localhost:3000/products
 Content-Type: application/json
 
 {
-  "name": "esg-social-empreendedorasdabeleza"
+  "name": "cnp-conecta-prices"
 }
 
+### 
 // PRODUCT ID FOR THE NEXT REQUESTS
-@productId = 08dc7c25-d9a1-43ec-884b-682eb0bd8bef
+@productId = 08d91f71-87c6-4f4e-8e27-254ea564e90d
 
 ### GET ALL PERMISSIONS FOR A PRODUCT
 GET http://localhost:3000/products/{{productId}}/permissions
@@ -28,6 +29,6 @@ POST http://localhost:3000/products/{{productId}}/members
 Content-Type: application/json
 
 {
-  "emails": ["samuel.dutra@grupoboticario.com.br"],
+  "emails": ["octavio.bolzani@grupoboticario.com.br"],
   "permission": "Administrators"
 }

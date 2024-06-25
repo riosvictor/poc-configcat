@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node dist/server.mjs",
     "build": "tsup src --format esm",
-    "dev": "tsx watch --env-file .env src/server.ts",
+    "dev": "tsx --env-file .env src/main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -17,5 +17,13 @@
     "tsup": "^8.0.2",
     "tsx": "^4.10.5",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@octokit/auth-app": "^7.1.0",
+    "@octokit/core": "^6.1.2",
+    "@octokit/request": "^9.1.1",
+    "axios": "^1.7.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "properties": "^1.2.1"
   }
 }

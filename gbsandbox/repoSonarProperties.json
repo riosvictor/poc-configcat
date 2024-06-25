@@ -1,0 +1,294 @@
+[
+  {
+    "name": "alquimia-template-static-website",
+    "url": "https://github.com/gbsandbox/alquimia-template-static-website",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "loja-digital-template-mfe",
+    "url": "https://github.com/gbsandbox/loja-digital-template-mfe",
+    "sonar": {
+      "organization": "gboticario"
+    }
+  },
+  {
+    "name": "template-node-fastify-dynamodb",
+    "url": "https://github.com/gbsandbox/template-node-fastify-dynamodb",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "b720d0ac-e415-4a58-8c6d-27c1d8cd387c",
+      "projectName": "template-node-fastify-dynamodb"
+    }
+  },
+  {
+    "name": "cnp-template-basic-node",
+    "url": "https://github.com/gbsandbox/cnp-template-basic-node",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "16bb2c18-d7af-4f52-b151-fe0dd255fd7e",
+      "projectName": "template-node-serverless"
+    }
+  },
+  {
+    "name": "template-sap-kyma",
+    "url": "https://github.com/gbsandbox/template-sap-kyma",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "template-sap-kyma",
+      "projectName": "template-sap-kyma"
+    }
+  },
+  {
+    "name": "template-nextjs",
+    "url": "https://github.com/gbsandbox/template-nextjs",
+    "sonar": {
+      "organization": "gboticario"
+    }
+  },
+  {
+    "name": "template-typescript-nextjs",
+    "url": "https://github.com/gbsandbox/template-typescript-nextjs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectName": "template-typescript-nextjs"
+    }
+  },
+  {
+    "name": "alquimia-template-observability",
+    "url": "https://github.com/gbsandbox/alquimia-template-observability",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "core-plataforma-de-desenvolvimento-pdd-template-observability",
+      "projectName": "core-plataforma-de-desenvolvimento-pdd-template-observability"
+    }
+  },
+  {
+    "name": "sandb-pdd-si-golden-image-001",
+    "url": "https://github.com/gbsandbox/sandb-pdd-si-golden-image-001",
+    "sonar": {
+      "organization": "gbsandbox",
+      "projectKey": "sandb-pdd-si-golden-image-001",
+      "projectName": "sandb-pdd-si-golden-image-001"
+    }
+  },
+  {
+    "name": "alquimia-template-javascript-fastify",
+    "url": "https://github.com/gbsandbox/alquimia-template-javascript-fastify",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-infra-btp",
+    "url": "https://github.com/gbsandbox/alquimia-template-infra-btp",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "plat-eng-alquimia-template-infra-btp",
+      "projectName": "plat-eng-alquimia-template-infra-btp"
+    }
+  },
+  {
+    "name": "franq-pricing-camp-precificador-api",
+    "url": "https://github.com/gbsandbox/franq-pricing-camp-precificador-api",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "franq-pricing-camp-precificador-api",
+      "projectName": "franq-pricing-camp-precificador-api"
+    }
+  },
+  {
+    "name": "alquimia-template-static-website-react-flora",
+    "url": "https://github.com/gbsandbox/alquimia-template-static-website-react-flora",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "actions",
+    "url": "https://github.com/gbsandbox/actions",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "arq-plataforma-de-desenvolvimento-actions",
+      "projectName": "arq-plataforma-de-desenvolvimento-actions"
+    }
+  },
+  {
+    "name": "alquimia-template-microfrontend",
+    "url": "https://github.com/gbsandbox/alquimia-template-microfrontend",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-javascript-slack",
+    "url": "https://github.com/gbsandbox/alquimia-template-javascript-slack",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-python-django",
+    "url": "https://github.com/gbsandbox/alquimia-template-python-django",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-docker",
+    "url": "https://github.com/gbsandbox/alquimia-template-docker",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-hexagonal-python",
+    "url": "https://github.com/gbsandbox/alquimia-template-hexagonal-python",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-python-ml",
+    "url": "https://github.com/gbsandbox/alquimia-template-python-ml",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-typescript-serverless",
+    "url": "https://github.com/gbsandbox/alquimia-template-typescript-serverless",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "sre-monitoring-resources",
+    "url": "https://github.com/gbsandbox/sre-monitoring-resources",
+    "sonar": {
+      "organization": "gbsandbox",
+      "projectKey": "sandb-sre-apis-sre-monitoring-resources",
+      "projectName": "sandb-sre-apis-sre-monitoring-resources"
+    }
+  },
+  {
+    "name": "alquimia-template-typescript-serverless-connector",
+    "url": "https://github.com/gbsandbox/alquimia-template-typescript-serverless-connector",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-node-lib",
+    "url": "https://github.com/gbsandbox/alquimia-template-node-lib",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "sandb-alquimia-pipemon",
+    "url": "https://github.com/gbsandbox/sandb-alquimia-pipemon",
+    "sonar": {
+      "organization": "gbsandbox",
+      "projectKey": "sandb-alquimia-pipemon",
+      "projectName": "sandb-alquimia-pipemon"
+    }
+  },
+  {
+    "name": "alquimia-template-python-serverless",
+    "url": "https://github.com/gbsandbox/alquimia-template-python-serverless",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "plat-eng-alquimia-doug-data-pyhex",
+    "url": "https://github.com/gbsandbox/plat-eng-alquimia-doug-data-pyhex",
+    "sonar": {
+      "organization": "gbsandbox",
+      "projectKey": "plat-eng-alquimia-doug-data-pyhex",
+      "projectName": "plat-eng-alquimia-doug-data-pyhex"
+    }
+  },
+  {
+    "name": "sandb-alquimia-ecr-login-test",
+    "url": "https://github.com/gbsandbox/sandb-alquimia-ecr-login-test",
+    "sonar": {
+      "organization": "gbsandbox",
+      "projectKey": "sandb-alquimia-ecr-login-test",
+      "projectName": "sandb-alquimia-ecr-login-test"
+    }
+  },
+  {
+    "name": "sandb-alquimia-rodrigo-ts-argo-test",
+    "url": "https://github.com/gbsandbox/sandb-alquimia-rodrigo-ts-argo-test",
+    "sonar": {
+      "organization": "gbsandbox",
+      "projectKey": "sandb-alquimia-rodrigo-ts-argo-test",
+      "projectName": "sandb-alquimia-rodrigo-ts-argo-test"
+    }
+  },
+  {
+    "name": "sandb-alquimia-teste-gian-bump",
+    "url": "https://github.com/gbsandbox/sandb-alquimia-teste-gian-bump",
+    "sonar": {
+      "organization": "gbsandbox",
+      "projectKey": "sandb-alquimia-teste-gian-bump",
+      "projectName": "sandb-alquimia-teste-gian-bump"
+    }
+  },
+  {
+    "name": "sandb-alquimia-teste-doug",
+    "url": "https://github.com/gbsandbox/sandb-alquimia-teste-doug",
+    "sonar": {
+      "organization": "gbsandbox",
+      "projectKey": "sandb-alquimia-teste-doug",
+      "projectName": "sandb-alquimia-teste-doug"
+    }
+  },
+  {
+    "name": "sandb-alquimia-multiple-aws-region-slack",
+    "url": "https://github.com/gbsandbox/sandb-alquimia-multiple-aws-region-slack",
+    "sonar": {
+      "organization": "gbsandbox",
+      "projectKey": "sandb-alquimia-multiple-aws-region-slack",
+      "projectName": "sandb-alquimia-multiple-aws-region-slack"
+    }
+  },
+  {
+    "name": "sandb-alquimia-multiple-aws-region-python",
+    "url": "https://github.com/gbsandbox/sandb-alquimia-multiple-aws-region-python",
+    "sonar": {
+      "organization": "gbsandbox",
+      "projectKey": "sandb-alquimia-multiple-aws-region-python",
+      "projectName": "sandb-alquimia-multiple-aws-region-python"
+    }
+  }
+]

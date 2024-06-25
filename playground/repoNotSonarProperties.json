@@ -1,0 +1,67 @@
+[
+  {
+    "name": "alquimia-defaults",
+    "url": "https://github.com/playgroundgb/alquimia-defaults",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-dev-platform",
+    "url": "https://github.com/playgroundgb/alquimia-dev-platform",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-typescript",
+    "url": "https://github.com/playgroundgb/alquimia-template-typescript",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-crossplane-aws",
+    "url": "https://github.com/playgroundgb/alquimia-template-crossplane-aws",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-kotlin-springboot",
+    "url": "https://github.com/playgroundgb/alquimia-template-kotlin-springboot",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-python-glue",
+    "url": "https://github.com/playgroundgb/alquimia-template-python-glue",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-terraform",
+    "url": "https://github.com/playgroundgb/alquimia-template-terraform",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-github",
+    "url": "https://github.com/playgroundgb/alquimia-template-github",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-backstage",
+    "url": "https://github.com/playgroundgb/alquimia-template-backstage",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-typescript-k8s",
+    "url": "https://github.com/playgroundgb/alquimia-template-typescript-k8s",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-typescript-resources",
+    "url": "https://github.com/playgroundgb/alquimia-template-typescript-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-templates",
+    "url": "https://github.com/playgroundgb/alquimia-templates",
+    "sonar": "not found"
+  },
+  {
+    "name": "plat-eng-alquimia-infra-resources",
+    "url": "https://github.com/playgroundgb/plat-eng-alquimia-infra-resources",
+    "sonar": "not found"
+  }
+]

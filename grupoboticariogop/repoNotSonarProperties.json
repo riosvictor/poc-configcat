@@ -1,0 +1,132 @@
+[
+  {
+    "name": "template-base",
+    "url": "https://github.com/grupoboticariogop/template-base",
+    "sonar": "not found"
+  },
+  {
+    "name": "tf-aws-vs-produto-financeiro-pci-resources",
+    "url": "https://github.com/grupoboticariogop/tf-aws-vs-produto-financeiro-pci-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "tf-aws-module-eks",
+    "url": "https://github.com/grupoboticariogop/tf-aws-module-eks",
+    "sonar": "not found"
+  },
+  {
+    "name": "action-helm-deploy-pci",
+    "url": "https://github.com/grupoboticariogop/action-helm-deploy-pci",
+    "sonar": "not found"
+  },
+  {
+    "name": "pci-helm-charts",
+    "url": "https://github.com/grupoboticariogop/pci-helm-charts",
+    "sonar": "not found"
+  },
+  {
+    "name": "action-build-pci",
+    "url": "https://github.com/grupoboticariogop/action-build-pci",
+    "sonar": "not found"
+  },
+  {
+    "name": "action-cd-serverless",
+    "url": "https://github.com/grupoboticariogop/action-cd-serverless",
+    "sonar": "not found"
+  },
+  {
+    "name": "prodfin-payment-gateway-api-demo",
+    "url": "https://github.com/grupoboticariogop/prodfin-payment-gateway-api-demo",
+    "sonar": "not found"
+  },
+  {
+    "name": "prodfin-payment-gateway-card-provider-api-gateway",
+    "url": "https://github.com/grupoboticariogop/prodfin-payment-gateway-card-provider-api-gateway",
+    "sonar": "not found"
+  },
+  {
+    "name": "prodfin-payment-gateway-config-server-pci",
+    "url": "https://github.com/grupoboticariogop/prodfin-payment-gateway-config-server-pci",
+    "sonar": "not found"
+  },
+  {
+    "name": "prodfin-payment-gateway-gb-card-token",
+    "url": "https://github.com/grupoboticariogop/prodfin-payment-gateway-gb-card-token",
+    "sonar": "not found"
+  },
+  {
+    "name": "pci-app-devops-sls-demo",
+    "url": "https://github.com/grupoboticariogop/pci-app-devops-sls-demo",
+    "sonar": "not found"
+  },
+  {
+    "name": "tf-aws-app-payment-gateway-lambda-custom-authenticator-authorizer-resources",
+    "url": "https://github.com/grupoboticariogop/tf-aws-app-payment-gateway-lambda-custom-authenticator-authorizer-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "tf-azr-project-b2e-pci-resources",
+    "url": "https://github.com/grupoboticariogop/tf-azr-project-b2e-pci-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "prodfin-payment-gateway-config-repo-pci",
+    "url": "https://github.com/grupoboticariogop/prodfin-payment-gateway-config-repo-pci",
+    "sonar": "not found"
+  },
+  {
+    "name": "prodfin-payment-gateway-card-payment-authorizer",
+    "url": "https://github.com/grupoboticariogop/prodfin-payment-gateway-card-payment-authorizer",
+    "sonar": "not found"
+  },
+  {
+    "name": "tf-aws-app-payment-gateway-card-payment-authorizer-resources",
+    "url": "https://github.com/grupoboticariogop/tf-aws-app-payment-gateway-card-payment-authorizer-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "tf-aws-app-payment-gateway-spring-cloud-api-gateway-resources",
+    "url": "https://github.com/grupoboticariogop/tf-aws-app-payment-gateway-spring-cloud-api-gateway-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "prodfin-payment-gateway-card-internal-api-gateway",
+    "url": "https://github.com/grupoboticariogop/prodfin-payment-gateway-card-internal-api-gateway",
+    "sonar": "not found"
+  },
+  {
+    "name": "devops-workload-pci",
+    "url": "https://github.com/grupoboticariogop/devops-workload-pci",
+    "sonar": "not found"
+  },
+  {
+    "name": "pci-internalize-container-images",
+    "url": "https://github.com/grupoboticariogop/pci-internalize-container-images",
+    "sonar": "not found"
+  },
+  {
+    "name": "pci-actions-ci-eks",
+    "url": "https://github.com/grupoboticariogop/pci-actions-ci-eks",
+    "sonar": "not found"
+  },
+  {
+    "name": "tf-aws-api-gateway-services-resources",
+    "url": "https://github.com/grupoboticariogop/tf-aws-api-gateway-services-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "tf-aws-api-gateway-authorizer-resources",
+    "url": "https://github.com/grupoboticariogop/tf-aws-api-gateway-authorizer-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "actions-fortify",
+    "url": "https://github.com/grupoboticariogop/actions-fortify",
+    "sonar": "not found"
+  },
+  {
+    "name": "produto-financeiro-pci-k8s-resources",
+    "url": "https://github.com/grupoboticariogop/produto-financeiro-pci-k8s-resources",
+    "sonar": "not found"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "organization": "gbgera",
+    "key": "boticario-mooz-api",
+    "name": "boticario-mooz-api",
+    "qualifier": "TRK",
+    "visibility": "private"
+  },
+  {
+    "organization": "gbgera",
+    "key": "carrinho",
+    "name": "carrinho",
+    "qualifier": "TRK",
+    "visibility": "private"
+  },
+  {
+    "organization": "gbgera",
+    "key": "consulta-estoque-app",
+    "name": "consulta-estoque-app",
+    "qualifier": "TRK",
+    "visibility": "private",
+    "lastAnalysisDate": "2023-07-24T15:17:34+0200",
+    "revision": "3471e9d76079d4711c3b34a7167602e7a6d76402"
+  },
+  {
+    "organization": "gbgera",
+    "key": "jabuti-eventnotifier",
+    "name": "jabuti-eventnotifier",
+    "qualifier": "TRK",
+    "visibility": "private"
+  },
+  {
+    "organization": "gbgera",
+    "key": "vd-abrangencia-function",
+    "name": "vd-abrangencia-function",
+    "qualifier": "TRK",
+    "visibility": "private",
+    "lastAnalysisDate": "2023-12-22T13:50:33+0100",
+    "revision": "b2e9dda5f6ab9246760e250969e1a1dd34469b2d"
+  },
+  {
+    "organization": "gbgera",
+    "key": "vd-abrangencia-loader",
+    "name": "vd-abrangencia-loader",
+    "qualifier": "TRK",
+    "visibility": "private",
+    "lastAnalysisDate": "2023-07-22T01:12:34+0200",
+    "revision": "e71d03e5956d74462331fe08e9a95dc563770f65"
+  },
+  {
+    "organization": "gbgera",
+    "key": "vd-promo-highlander",
+    "name": "vd-promo-highlander",
+    "qualifier": "TRK",
+    "visibility": "private",
+    "lastAnalysisDate": "2024-03-08T19:15:48+0100",
+    "revision": "866f437808a5d8c95d249cdd366c3dbdcd65af9d"
+  },
+  {
+    "organization": "gbgera",
+    "key": "vd-promo-jaspion",
+    "name": "vd-promo-jaspion",
+    "qualifier": "TRK",
+    "visibility": "private",
+    "lastAnalysisDate": "2024-06-17T15:03:54+0200",
+    "revision": "4ef1816ea52d17cbf6aca42d42070f6462e5e78a"
+  },
+  {
+    "organization": "gbgera",
+    "key": "vd-promo-macgyver",
+    "name": "vd-promo-macgyver",
+    "qualifier": "TRK",
+    "visibility": "private",
+    "lastAnalysisDate": "2024-03-01T23:03:39+0100",
+    "revision": "597f971759bbc58c8e5f49f97d7f3220c9ede305"
+  },
+  {
+    "organization": "gbgera",
+    "key": "vd-turbo-nfe",
+    "name": "vd-turbo-nfe",
+    "qualifier": "TRK",
+    "visibility": "private",
+    "lastAnalysisDate": "2024-01-03T23:01:30+0100",
+    "revision": "e286b6b4606807682df096b3b098fca3ec5eda70"
+  },
+  {
+    "organization": "gbgera",
+    "key": "vd-vdmais-identity",
+    "name": "vd-vdmais-identity",
+    "qualifier": "TRK",
+    "visibility": "private"
+  }
+]

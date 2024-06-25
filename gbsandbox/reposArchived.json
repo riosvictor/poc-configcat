@@ -1,0 +1,16 @@
+[
+  {
+    "name": "pdd-template-kotlin-worker",
+    "description": "Template de projetos para projetos workers com kotlin e springboot",
+    "url": "https://github.com/gbsandbox/pdd-template-kotlin-worker",
+    "archived": true,
+    "disabled": false
+  },
+  {
+    "name": "pdd-template-net-core-api",
+    "description": "pdd template para dotnet core api",
+    "url": "https://github.com/gbsandbox/pdd-template-net-core-api",
+    "archived": true,
+    "disabled": false
+  }
+]

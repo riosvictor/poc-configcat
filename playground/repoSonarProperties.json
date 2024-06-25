@@ -1,0 +1,191 @@
+[
+  {
+    "name": "alquimia-template-hexagonal-python",
+    "url": "https://github.com/playgroundgb/alquimia-template-hexagonal-python",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-python-serverless",
+    "url": "https://github.com/playgroundgb/alquimia-template-python-serverless",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-javascript-fastify",
+    "url": "https://github.com/playgroundgb/alquimia-template-javascript-fastify",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-observability",
+    "url": "https://github.com/playgroundgb/alquimia-template-observability",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": "core-plataforma-de-desenvolvimento-pdd-template-observability",
+      "projectName": "core-plataforma-de-desenvolvimento-pdd-template-observability"
+    }
+  },
+  {
+    "name": "alquimia-template-techdocs",
+    "url": "https://github.com/playgroundgb/alquimia-template-techdocs",
+    "sonar": {
+      "organization": "gboticario",
+      "projectKey": null,
+      "projectName": null
+    }
+  },
+  {
+    "name": "alquimia-template-python-django",
+    "url": "https://github.com/playgroundgb/alquimia-template-python-django",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-microfrontend",
+    "url": "https://github.com/playgroundgb/alquimia-template-microfrontend",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-javascript-slack",
+    "url": "https://github.com/playgroundgb/alquimia-template-javascript-slack",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-static-website",
+    "url": "https://github.com/playgroundgb/alquimia-template-static-website",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-static-website-react-flora",
+    "url": "https://github.com/playgroundgb/alquimia-template-static-website-react-flora",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "alquimia-template-typescript-serverless",
+    "url": "https://github.com/playgroundgb/alquimia-template-typescript-serverless",
+    "sonar": {
+      "organization": "{{parameters.sonarOrganization}}",
+      "projectKey": "{{parameters.repositoryName}}",
+      "projectName": "{{parameters.repositoryName}}"
+    }
+  },
+  {
+    "name": "play-sample-system-suspdf-automacao-sitef",
+    "url": "https://github.com/playgroundgb/play-sample-system-suspdf-automacao-sitef",
+    "sonar": {
+      "organization": "palygroundgb",
+      "projectKey": "play-sample-system-suspdf-automacao-sitef",
+      "projectName": "play-sample-system-suspdf-automacao-sitef"
+    }
+  },
+  {
+    "name": "play-sample-system-newrelic-test",
+    "url": "https://github.com/playgroundgb/play-sample-system-newrelic-test",
+    "sonar": {
+      "organization": "palygroundgb",
+      "projectKey": "play-sample-system-newrelic-test",
+      "projectName": "play-sample-system-newrelic-test"
+    }
+  },
+  {
+    "name": "play-sample-system-front-example",
+    "url": "https://github.com/playgroundgb/play-sample-system-front-example",
+    "sonar": {
+      "organization": "palygroundgb",
+      "projectKey": "play-sample-system-front-example",
+      "projectName": "play-sample-system-front-example"
+    }
+  },
+  {
+    "name": "play-sample-system-sellout-microfrontend-monorepo",
+    "url": "https://github.com/playgroundgb/play-sample-system-sellout-microfrontend-monorepo",
+    "sonar": {
+      "organization": "palygroundgb",
+      "projectKey": "play-sample-system-sellout-microfrontend-monorepo",
+      "projectName": "play-sample-system-sellout-microfrontend-monorepo"
+    }
+  },
+  {
+    "name": "play-sample-system-teste-template-python",
+    "url": "https://github.com/playgroundgb/play-sample-system-teste-template-python",
+    "sonar": {
+      "organization": "palygroundgb",
+      "projectKey": "play-sample-system-teste-template-python",
+      "projectName": "play-sample-system-teste-template-python"
+    }
+  },
+  {
+    "name": "play-sample-system-henrique",
+    "url": "https://github.com/playgroundgb/play-sample-system-henrique",
+    "sonar": {
+      "organization": "palygroundgb",
+      "projectKey": "play-sample-system-henrique",
+      "projectName": "play-sample-system-henrique"
+    }
+  },
+  {
+    "name": "play-sample-system-mes-serverless",
+    "url": "https://github.com/playgroundgb/play-sample-system-mes-serverless",
+    "sonar": {
+      "organization": "palygroundgb",
+      "projectKey": "play-sample-system-mes-serverless",
+      "projectName": "play-sample-system-mes-serverless"
+    }
+  },
+  {
+    "name": "play-sample-system-gitflow-and-actions-sandbox",
+    "url": "https://github.com/playgroundgb/play-sample-system-gitflow-and-actions-sandbox",
+    "sonar": {
+      "organization": "palygroundgb",
+      "projectKey": "play-sample-system-gitflow-and-actions-sandbox",
+      "projectName": "play-sample-system-gitflow-and-actions-sandbox"
+    }
+  },
+  {
+    "name": "play-sample-system-teste-hexagonal",
+    "url": "https://github.com/playgroundgb/play-sample-system-teste-hexagonal",
+    "sonar": {
+      "organization": "palygroundgb",
+      "projectKey": "play-sample-system-teste-hexagonal",
+      "projectName": "play-sample-system-teste-hexagonal"
+    }
+  },
+  {
+    "name": "play-sample-system-teste-typescript",
+    "url": "https://github.com/playgroundgb/play-sample-system-teste-typescript",
+    "sonar": {
+      "organization": "palygroundgb",
+      "projectKey": "play-sample-system-teste-typescript",
+      "projectName": "play-sample-system-teste-typescript"
+    }
+  }
+]

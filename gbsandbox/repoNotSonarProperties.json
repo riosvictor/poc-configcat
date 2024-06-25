@@ -1,0 +1,232 @@
+[
+  {
+    "name": "pdd-template-github",
+    "url": "https://github.com/gbsandbox/pdd-template-github",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-apigee",
+    "url": "https://github.com/gbsandbox/alquimia-template-apigee",
+    "sonar": "not found"
+  },
+  {
+    "name": "demo-mobile",
+    "url": "https://github.com/gbsandbox/demo-mobile",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-typescript-fastify-mongoose",
+    "url": "https://github.com/gbsandbox/template-typescript-fastify-mongoose",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-typescript-nest-fastify",
+    "url": "https://github.com/gbsandbox/template-typescript-nest-fastify",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-typescript-nestjs-express",
+    "url": "https://github.com/gbsandbox/template-typescript-nestjs-express",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-typescript-serverless",
+    "url": "https://github.com/gbsandbox/template-typescript-serverless",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-kotlin-worker",
+    "url": "https://github.com/gbsandbox/template-kotlin-worker",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-gbweb-micro-frontend",
+    "url": "https://github.com/gbsandbox/template-gbweb-micro-frontend",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-data-science-vertex",
+    "url": "https://github.com/gbsandbox/template-data-science-vertex",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-python-fastapi",
+    "url": "https://github.com/gbsandbox/template-python-fastapi",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-python-django",
+    "url": "https://github.com/gbsandbox/template-python-django",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-flutter-micro-app",
+    "url": "https://github.com/gbsandbox/template-flutter-micro-app",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-base",
+    "url": "https://github.com/gbsandbox/template-base",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-apigee",
+    "url": "https://github.com/gbsandbox/template-apigee",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-terraform",
+    "url": "https://github.com/gbsandbox/template-terraform",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-kotlin-springboot",
+    "url": "https://github.com/gbsandbox/template-kotlin-springboot",
+    "sonar": "not found"
+  },
+  {
+    "name": "template-terraform-atlantis-multibranch",
+    "url": "https://github.com/gbsandbox/template-terraform-atlantis-multibranch",
+    "sonar": "not found"
+  },
+  {
+    "name": "flutter-boti-lints",
+    "url": "https://github.com/gbsandbox/flutter-boti-lints",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-typescript",
+    "url": "https://github.com/gbsandbox/alquimia-template-typescript",
+    "sonar": "not found"
+  },
+  {
+    "name": "stack-tecnologia-gb",
+    "url": "https://github.com/gbsandbox/stack-tecnologia-gb",
+    "sonar": "not found"
+  },
+  {
+    "name": "analytics-markdown-generator-backstage",
+    "url": "https://github.com/gbsandbox/analytics-markdown-generator-backstage",
+    "sonar": "not found"
+  },
+  {
+    "name": "arq-pdd-crossplane-provider-github",
+    "url": "https://github.com/gbsandbox/arq-pdd-crossplane-provider-github",
+    "sonar": "not found"
+  },
+  {
+    "name": "pdd-template-backstage",
+    "url": "https://github.com/gbsandbox/pdd-template-backstage",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-dev-platform",
+    "url": "https://github.com/gbsandbox/alquimia-dev-platform",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-github",
+    "url": "https://github.com/gbsandbox/alquimia-template-github",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-crossplane-aws",
+    "url": "https://github.com/gbsandbox/alquimia-template-crossplane-aws",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-flutter-lib",
+    "url": "https://github.com/gbsandbox/alquimia-template-flutter-lib",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-python-glue",
+    "url": "https://github.com/gbsandbox/alquimia-template-python-glue",
+    "sonar": "not found"
+  },
+  {
+    "name": "gb-tech-backstage",
+    "url": "https://github.com/gbsandbox/gb-tech-backstage",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-kotlin-springboot",
+    "url": "https://github.com/gbsandbox/alquimia-template-kotlin-springboot",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-terraform",
+    "url": "https://github.com/gbsandbox/alquimia-template-terraform",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-techdocs",
+    "url": "https://github.com/gbsandbox/alquimia-template-techdocs",
+    "sonar": "not found"
+  },
+  {
+    "name": "backstage",
+    "url": "https://github.com/gbsandbox/backstage",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-kafka-pubsub-connector",
+    "url": "https://github.com/gbsandbox/alquimia-template-kafka-pubsub-connector",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-backstage",
+    "url": "https://github.com/gbsandbox/alquimia-template-backstage",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-typescript-k8s",
+    "url": "https://github.com/gbsandbox/alquimia-template-typescript-k8s",
+    "sonar": "not found"
+  },
+  {
+    "name": "plat-eng-alquimia-auto-service-actions",
+    "url": "https://github.com/gbsandbox/plat-eng-alquimia-auto-service-actions",
+    "sonar": "not found"
+  },
+  {
+    "name": "opentelemetry-collector-contrib",
+    "url": "https://github.com/gbsandbox/opentelemetry-collector-contrib",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-kotlin-quarkus",
+    "url": "https://github.com/gbsandbox/alquimia-template-kotlin-quarkus",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-template-typescript-resources",
+    "url": "https://github.com/gbsandbox/alquimia-template-typescript-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "alquimia-templates",
+    "url": "https://github.com/gbsandbox/alquimia-templates",
+    "sonar": "not found"
+  },
+  {
+    "name": "tf-aws-openstack-attach-resources",
+    "url": "https://github.com/gbsandbox/tf-aws-openstack-attach-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "plat-eng-alquimia-infra-resources",
+    "url": "https://github.com/gbsandbox/plat-eng-alquimia-infra-resources",
+    "sonar": "not found"
+  },
+  {
+    "name": "sandb-alquimia-rodrigo-test-docs",
+    "url": "https://github.com/gbsandbox/sandb-alquimia-rodrigo-test-docs",
+    "sonar": "not found"
+  },
+  {
+    "name": "sandb-alquimia-rodrigo-test-docs2",
+    "url": "https://github.com/gbsandbox/sandb-alquimia-rodrigo-test-docs2",
+    "sonar": "not found"
+  }
+]

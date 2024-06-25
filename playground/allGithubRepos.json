@@ -1,0 +1,240 @@
+[
+  {
+    "name": "alquimia-defaults",
+    "description": "Repositório responsável por armazenar informações básicas para execução do Alquimia no ambiente de playground",
+    "url": "https://github.com/playgroundgb/alquimia-defaults",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-dev-platform",
+    "description": "Documentação da plataforma de desenvolvimento",
+    "url": "https://github.com/playgroundgb/alquimia-dev-platform",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-hexagonal-python",
+    "description": "Template Python FastAPI",
+    "url": "https://github.com/playgroundgb/alquimia-template-hexagonal-python",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-typescript",
+    "description": "Template para arquitetura hexagonal utilizando typescript",
+    "url": "https://github.com/playgroundgb/alquimia-template-typescript",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-crossplane-aws",
+    "description": "Template para provisionamento de componentes cloud da AWS via crossplane.",
+    "url": "https://github.com/playgroundgb/alquimia-template-crossplane-aws",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-python-serverless",
+    "description": "Template Serverless Python para a criação de projetos via Alquimia",
+    "url": "https://github.com/playgroundgb/alquimia-template-python-serverless",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-javascript-fastify",
+    "description": "Template javascript com Fastify usado na plataforma de desenvolvimento",
+    "url": "https://github.com/playgroundgb/alquimia-template-javascript-fastify",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-observability",
+    "description": "Scafflater para habilitar as funcionalidades do Backstage para observabilidade em repositórios.",
+    "url": "https://github.com/playgroundgb/alquimia-template-observability",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-techdocs",
+    "description": "Template for creating standalone TechDocs documentation",
+    "url": "https://github.com/playgroundgb/alquimia-template-techdocs",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-python-django",
+    "description": "Template python com Django da plataforma de desenvolvimento",
+    "url": "https://github.com/playgroundgb/alquimia-template-python-django",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-microfrontend",
+    "description": "Module Federation Alquimia Template",
+    "url": "https://github.com/playgroundgb/alquimia-template-microfrontend",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-kotlin-springboot",
+    "description": "Template oficial para publicação de aplicações provenientes do Alquimia para um backend kotlin",
+    "url": "https://github.com/playgroundgb/alquimia-template-kotlin-springboot",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-javascript-slack",
+    "description": "Template do PDD para criar repositórios para integração com API do slack usando Bolt-JS",
+    "url": "https://github.com/playgroundgb/alquimia-template-javascript-slack",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-python-glue",
+    "description": "Template for Spark Script using Python",
+    "url": "https://github.com/playgroundgb/alquimia-template-python-glue",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-terraform",
+    "description": "Alquimia Template for Terraform",
+    "url": "https://github.com/playgroundgb/alquimia-template-terraform",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-github",
+    "description": "Template para a configuração de features do Github (actions, codeowners, etc.)",
+    "url": "https://github.com/playgroundgb/alquimia-template-github",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-static-website",
+    "description": "Template para publicações de conteúdos web estáticos na AWS, utilizando S3 e Cloudfront.",
+    "url": "https://github.com/playgroundgb/alquimia-template-static-website",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-static-website-react-flora",
+    "description": "Template para o PDD com react e flora no modelo SPA",
+    "url": "https://github.com/playgroundgb/alquimia-template-static-website-react-flora",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-typescript-serverless",
+    "description": "Template serverless para a criação de projetos via Alquimia.",
+    "url": "https://github.com/playgroundgb/alquimia-template-typescript-serverless",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-backstage",
+    "description": "Scafflater para habilitar as funcionalidades do Backstage em repositórios.",
+    "url": "https://github.com/playgroundgb/alquimia-template-backstage",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-typescript-k8s",
+    "description": "Template Typescript do Alquimia utilizando a abordagem polyrepo",
+    "url": "https://github.com/playgroundgb/alquimia-template-typescript-k8s",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-template-typescript-resources",
+    "description": "Template responsável por armazenar as partials de comunicação com recursos cloud dos templates Typescript",
+    "url": "https://github.com/playgroundgb/alquimia-template-typescript-resources",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "alquimia-templates",
+    "description": "Repositório responsável por conter o catálogo dos templates confiáveis do Alquimia",
+    "url": "https://github.com/playgroundgb/alquimia-templates",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "plat-eng-alquimia-infra-resources",
+    "description": "Recursos de Infraestrutura compartilhada do Alquimia",
+    "url": "https://github.com/playgroundgb/plat-eng-alquimia-infra-resources",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "play-sample-system-suspdf-automacao-sitef",
+    "description": "Script de backup de arquivos Sitef",
+    "url": "https://github.com/playgroundgb/play-sample-system-suspdf-automacao-sitef",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "play-sample-system-newrelic-test",
+    "description": "newrelic-test",
+    "url": "https://github.com/playgroundgb/play-sample-system-newrelic-test",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "play-sample-system-front-example",
+    "description": "front example config",
+    "url": "https://github.com/playgroundgb/play-sample-system-front-example",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "play-sample-system-sellout-microfrontend-monorepo",
+    "description": "PoC de arquitetura de microfrontend estruturado em monorepo",
+    "url": "https://github.com/playgroundgb/play-sample-system-sellout-microfrontend-monorepo",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "play-sample-system-teste-template-python",
+    "description": "Teste template python",
+    "url": "https://github.com/playgroundgb/play-sample-system-teste-template-python",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "play-sample-system-henrique",
+    "description": "This is my fisrt python solution on backstage alquimia",
+    "url": "https://github.com/playgroundgb/play-sample-system-henrique",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "play-sample-system-mes-serverless",
+    "description": "Sample serverless application",
+    "url": "https://github.com/playgroundgb/play-sample-system-mes-serverless",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "play-sample-system-gitflow-and-actions-sandbox",
+    "description": "A project designed to explore and experiment with GitFlow using GitHub Actions.",
+    "url": "https://github.com/playgroundgb/play-sample-system-gitflow-and-actions-sandbox",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "play-sample-system-teste-hexagonal",
+    "description": "teste hexagonal",
+    "url": "https://github.com/playgroundgb/play-sample-system-teste-hexagonal",
+    "archived": false,
+    "disabled": false
+  },
+  {
+    "name": "play-sample-system-teste-typescript",
+    "description": "Teste Typescript",
+    "url": "https://github.com/playgroundgb/play-sample-system-teste-typescript",
+    "archived": false,
+    "disabled": false
+  }
+]

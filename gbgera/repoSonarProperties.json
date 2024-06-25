@@ -1,0 +1,10 @@
+[
+  {
+    "name": "consulta-estoque-app",
+    "url": "https://github.com/gbgera/consulta-estoque-app",
+    "sonar": {
+      "organization": "gbgera",
+      "projectKey": "consulta-estoque-app"
+    }
+  }
+]
