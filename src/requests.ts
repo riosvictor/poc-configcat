@@ -158,20 +158,6 @@ const getSonarAuth = async (org: string) => {
 
   return `Basic ${buff.toString('base64')}`;
 };
-function convertGithubOrgToSonarOrg(githubOrg: string) {
-  if (githubOrg === undefined) {
-    console.log('github org is undefined')
-    console.trace()
-  }
-
-  if (process.env.SONAR_FORCE_ORG_ON_DEV === 'true') {
-    return 'gbsandbox'
-  }
-  if (githubOrg === 'grupoboticario') {
-    return 'gboticario'
-  }
-  return githubOrg
-}
 
 export async function getProjectsByName(organization: string, name: string, options: any = {}) {
   options = { ...{ exact: false }, ...options };
@@ -285,6 +271,52 @@ export async function deleteProject(organization: string, key: string) {
       ok: false,
       error: `${(error as any)?.message || 'Unknown error'} - org ${organization} - key ${key}`,
     }
+  }
+}
+
+
+export async function getRepo(organization: string, repo: string) {
+  try {
+    const requestWithAuth = await getGithubRequest(organization)
+    const response = await requestWithAuth('GET /repos/{owner}/{repo}', {
+      owner: organization,
+      repo
+    })
+
+    console.log(response)
+
+    return response.data
+  } catch (e) {
+    const error = e as Error
+    error.message = `/repos/{owner}/{repo} - ${error.message}`
+    console.error(error)
+    throw error
+  }
+}
+
+export async function addInstallationIds(organization: string, repository: string, installationIds: number[]) {
+  if (installationIds.length === 0) {
+    return
+  }
+
+  console.info('start addInstallationIds function')
+  const repoInfo = await getRepo(organization, repository)
+
+  try {
+    const requestWithAuth = await getGithubRequest(organization)
+    const requests = installationIds.map((installationId) => {
+      return requestWithAuth('PUT /user/installations/{installation_id}/repositories/{repository_id}', {
+        installation_id: installationId,
+        repository_id: repoInfo.id
+      })
+    })
+    await Promise.all(requests)
+    console.info('end successfully addInstallationIds function')
+  } catch (e) {
+    const error = e as Error
+    console.error(`end with error addInstallationIds function - ${error?.message}`)
+    console.error(error)
+    throw error
   }
 }
 
