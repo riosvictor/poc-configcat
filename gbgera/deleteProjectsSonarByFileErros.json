@@ -1,3 +1,0 @@
-[
-  "Invalid organization {{parameters.sonarOrganization}} with token key SONAR_TOKEN_{{PARAMETERS.SONARORGANIZATION}} - org {{parameters.sonarOrganization}} - key {{parameters.sonarProjectId}}"
-]
