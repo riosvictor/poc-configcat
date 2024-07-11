@@ -1,0 +1,826 @@
+[
+  {
+    "id": 219791963,
+    "name": "superapp_mobile",
+    "description": "Minha Revenda - Mobile",
+    "url": "https://github.com/grupoboticario/superapp_mobile",
+    "collaborators": [
+      {
+        "login": "jairhenrique",
+        "url": "https://github.com/jairhenrique",
+        "permissions": {
+          "admin": false,
+          "maintain": true,
+          "push": true,
+          "triage": true,
+          "pull": true
+        },
+        "role_name": "maintain"
+      },
+      {
+        "login": "ricardolavor",
+        "url": "https://github.com/ricardolavor",
+        "permissions": {
+          "admin": true,
+          "maintain": true,
+          "push": true,
+          "triage": true,
+          "pull": true
+        },
+        "role_name": "admin"
+      },
+      {
+        "login": "renatogp",
+        "url": "https://github.com/renatogp",
+        "permissions": {
+          "admin": false,
+          "maintain": true,
+          "push": true,
+          "triage": true,
+          "pull": true
+        },
+        "role_name": "maintain"
+      },
+      {
+        "login": "brunopenso",
+        "url": "https://github.com/brunopenso",
+        "permissions": {
+          "admin": true,
+          "maintain": true,
+          "push": true,
+          "triage": true,
+          "pull": true
+        },
+        "role_name": "admin"
+      },
+      {
+        "login": "philliparente",
+        "url": "https://github.com/philliparente",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "paladini",
+        "url": "https://github.com/paladini",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "bertolero",
+        "url": "https://github.com/bertolero",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "jcsreisjr",
+        "url": "https://github.com/jcsreisjr",
+        "permissions": {
+          "admin": false,
+          "maintain": true,
+          "push": true,
+          "triage": true,
+          "pull": true
+        },
+        "role_name": "maintain"
+      },
+      {
+        "login": "tGeanezini",
+        "url": "https://github.com/tGeanezini",
+        "permissions": {
+          "admin": false,
+          "maintain": true,
+          "push": true,
+          "triage": true,
+          "pull": true
+        },
+        "role_name": "maintain"
+      },
+      {
+        "login": "tiagomanosso",
+        "url": "https://github.com/tiagomanosso",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "chicoribas",
+        "url": "https://github.com/chicoribas",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "edivangalindo",
+        "url": "https://github.com/edivangalindo",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "bcrema",
+        "url": "https://github.com/bcrema",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "YagoAzevedo",
+        "url": "https://github.com/YagoAzevedo",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "johnnytaira",
+        "url": "https://github.com/johnnytaira",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "riosvictor",
+        "url": "https://github.com/riosvictor",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "marcelocastilho",
+        "url": "https://github.com/marcelocastilho",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "msuchy",
+        "url": "https://github.com/msuchy",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "dougamaral",
+        "url": "https://github.com/dougamaral",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "maiconzotto",
+        "url": "https://github.com/maiconzotto",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "rodrigoramosrs",
+        "url": "https://github.com/rodrigoramosrs",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "alexwiedermann",
+        "url": "https://github.com/alexwiedermann",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "digogid",
+        "url": "https://github.com/digogid",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "igorgbianchi",
+        "url": "https://github.com/igorgbianchi",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "larissavarjao",
+        "url": "https://github.com/larissavarjao",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "mateeuslinno",
+        "url": "https://github.com/mateeuslinno",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "Grisolfi",
+        "url": "https://github.com/Grisolfi",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "manumbs",
+        "url": "https://github.com/manumbs",
+        "permissions": {
+          "admin": true,
+          "maintain": true,
+          "push": true,
+          "triage": true,
+          "pull": true
+        },
+        "role_name": "admin"
+      },
+      {
+        "login": "haooliveira84",
+        "url": "https://github.com/haooliveira84",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "MrDuckBr",
+        "url": "https://github.com/MrDuckBr",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "nandorfreitas",
+        "url": "https://github.com/nandorfreitas",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "eduardoruschel",
+        "url": "https://github.com/eduardoruschel",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "guilherme-koerber",
+        "url": "https://github.com/guilherme-koerber",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "Gianluska",
+        "url": "https://github.com/Gianluska",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "phflrs",
+        "url": "https://github.com/phflrs",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "winstonsec",
+        "url": "https://github.com/winstonsec",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "luis-guts",
+        "url": "https://github.com/luis-guts",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "staskfe",
+        "url": "https://github.com/staskfe",
+        "permissions": {
+          "admin": false,
+          "maintain": true,
+          "push": true,
+          "triage": true,
+          "pull": true
+        },
+        "role_name": "maintain"
+      },
+      {
+        "login": "sergiolonghidev",
+        "url": "https://github.com/sergiolonghidev",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "alxvalentim",
+        "url": "https://github.com/alxvalentim",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "lucioerlan",
+        "url": "https://github.com/lucioerlan",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "rtsarakaki",
+        "url": "https://github.com/rtsarakaki",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "s-azdevops",
+        "url": "https://github.com/s-azdevops",
+        "permissions": {
+          "admin": true,
+          "maintain": true,
+          "push": true,
+          "triage": true,
+          "pull": true
+        },
+        "role_name": "admin"
+      },
+      {
+        "login": "henriquebesing",
+        "url": "https://github.com/henriquebesing",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "GBNicolasS",
+        "url": "https://github.com/GBNicolasS",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "leandrocarpenter",
+        "url": "https://github.com/leandrocarpenter",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "ducattibot",
+        "url": "https://github.com/ducattibot",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "WyllyanR",
+        "url": "https://github.com/WyllyanR",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "sdilio",
+        "url": "https://github.com/sdilio",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "karllasnascimento",
+        "url": "https://github.com/karllasnascimento",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "Danyelleac",
+        "url": "https://github.com/Danyelleac",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "ptuchtenhagen",
+        "url": "https://github.com/ptuchtenhagen",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "fabiorosalem-boticario",
+        "url": "https://github.com/fabiorosalem-boticario",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "joaofmds",
+        "url": "https://github.com/joaofmds",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "Joely-Brito",
+        "url": "https://github.com/Joely-Brito",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "pqdluiz",
+        "url": "https://github.com/pqdluiz",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "LeandroS06",
+        "url": "https://github.com/LeandroS06",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "TaliDuarte",
+        "url": "https://github.com/TaliDuarte",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "gabrielfeijo-gb",
+        "url": "https://github.com/gabrielfeijo-gb",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "claytonprc",
+        "url": "https://github.com/claytonprc",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "hbastosgb",
+        "url": "https://github.com/hbastosgb",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "marcelo-felix-gbtech",
+        "url": "https://github.com/marcelo-felix-gbtech",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "eduardoFerreira-t-ingram",
+        "url": "https://github.com/eduardoFerreira-t-ingram",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "lalonsogb",
+        "url": "https://github.com/lalonsogb",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "wes-jesus",
+        "url": "https://github.com/wes-jesus",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "brunodurugb",
+        "url": "https://github.com/brunodurugb",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "cassiocauee",
+        "url": "https://github.com/cassiocauee",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      },
+      {
+        "login": "gb-massis",
+        "url": "https://github.com/gb-massis",
+        "permissions": {
+          "admin": false,
+          "maintain": false,
+          "push": false,
+          "triage": false,
+          "pull": true
+        },
+        "role_name": "read"
+      }
+    ]
+  }
+]

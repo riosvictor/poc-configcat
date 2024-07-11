@@ -58,11 +58,68 @@ export async function getRepos(org: string): Promise<TResponse<any[]>> {
       })
 
       const mappedData = response.data.map((repo: any) => ({
+        id: repo.id,
         name: repo.name,
         description: repo.description,
         url: repo.html_url,
-        archived: repo.archived,
-        disabled: repo.disabled,
+        created_at: repo.created_at,
+      }))
+
+      data.push(...mappedData)
+
+      const remainRequests = parseInt(response.headers['x-ratelimit-remaining']!)
+      const resetTime = new Date(parseInt(response.headers['x-ratelimit-reset']!) * 1000)
+
+      if(remainRequests === 0){
+        console.log(`Rate limit exceeded. Wait until ${resetTime}`)
+        
+        const waitTime = resetTime.getTime() - Date.now()
+        await new Promise((resolve) => setTimeout(resolve, waitTime))
+      }
+
+      page++
+      hasMore = response.headers.link?.includes('rel="next"') || false
+    } while (hasMore)
+
+    return {
+      ok: true,
+      data,
+    }
+  } catch (error) {
+    console.error(JSON.stringify(error));
+    return {
+      ok: false,
+      error: (error as any)?.message || 'Unknown error',
+    }
+  }
+}
+
+export async function getCollaboratorsInRepo(org: string, repo: string): Promise<TResponse<any[]>> {
+  const data = []
+  const pageSize = 100
+  let page = 1
+  let hasMore = true
+  try {
+    const requestWithAuth = await getGithubRequest(org)
+
+    do {
+      console.log(`Fetching page ${page} - total ${data.length} - org ${org}`)
+
+      const response = await requestWithAuth('GET /repos/{org}/{repo}/collaborators', {
+        org,
+        repo,
+        per_page: pageSize,
+        page,
+        headers: {
+          'X-GitHub-Api-Version': '2022-11-28'
+        }
+      })
+
+      const mappedData = response.data.map((users: any) => ({
+        login: users.login,
+        url: users.html_url,
+        permissions: users.permissions,
+        role_name: users.role_name
       }))
 
       data.push(...mappedData)
@@ -74,6 +131,27 @@ export async function getRepos(org: string): Promise<TResponse<any[]>> {
     return {
       ok: true,
       data,
+    }
+  } catch (error) {
+    console.error(JSON.stringify(error));
+    return {
+      ok: false,
+      error: (error as any)?.message || 'Unknown error',
+    }
+  }
+}
+
+export async function removeCollaboratorsFromRepo(org: string, repo: string, user: string): Promise<TResponse<void>> {
+  try {
+    const requestWithAuth = await getGithubRequest(org)
+    const response = await requestWithAuth('DELETE /repos/{owner}/{repo}/collaborators/{username}', {
+      owner: org,
+      repo,
+      username: user
+    })
+
+    return {
+      ok: response.status === 204,
     }
   } catch (error) {
     console.error(JSON.stringify(error));
