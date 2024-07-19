@@ -1,13 +1,24 @@
-import { getClient, IConfigCatClient, IEvaluationDetails, PollingMode, SettingTypeOf } from 'configcat-node'
+import { getClient, IConfigCatClient, PollingMode } from 'configcat-node'
 
+// const proxyBaseUrl = 'http://localhost:8050';
+const proxyBaseUrl = 'https://2549-45-172-3-163.ngrok-free.app';
 let configCatClient: IConfigCatClient;
 
 async function getValue(key: string, attempt: number) {
   console.log(`Attempt ${attempt}`)
 
-  const response = await configCatClient.getValueDetailsAsync(key, undefined); 
+  const response = await configCatClient.getValueDetailsAsync(key, undefined);
+  const sdk = (process.env.CONFIGCAT_KEY_PROXY as string).split("/")[1]
+  const response2 = await fetch(`${proxyBaseUrl}/api/${sdk}/eval`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({ key })
+  }).then(res => res.json())
 
   console.log(`value ${response.value}`)
+  console.log(`value2 ${(response2 as any)?.value}`)
 
   await wait(10000)
 
@@ -26,7 +37,7 @@ async function main() {
   configCatClient = getClient(
     process.env.CONFIGCAT_KEY_PROXY as string, 
     PollingMode.AutoPoll,
-    { baseUrl: "http://localhost:8050" }
+    { baseUrl: proxyBaseUrl }
   );
 
   // configCatClient = getClient(

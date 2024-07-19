@@ -129,4 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-/docker/options.yaml
+/docker/options.yml
+/redis_data
