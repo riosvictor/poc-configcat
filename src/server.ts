@@ -1,7 +1,7 @@
 import { getClient, IConfigCatClient, PollingMode } from 'configcat-node'
 
 // const proxyBaseUrl = 'http://localhost:8050';
-const proxyBaseUrl = 'https://2549-45-172-3-163.ngrok-free.app';
+const proxyBaseUrl = 'https://2c8b-189-86-220-160.ngrok-free.app';
 let configCatClient: IConfigCatClient;
 
 async function getValue(key: string, attempt: number) {
@@ -12,9 +12,15 @@ async function getValue(key: string, attempt: number) {
   const response2 = await fetch(`${proxyBaseUrl}/api/${sdk}/eval`, {
     method: "POST",
     headers: {
-      "Content-Type": "application/json"
+      "Content-Type": "application/json",
+      "X-API-KEY": process.env.CONFIGCAT_X_API_KEY as string
     },
-    body: JSON.stringify({ key })
+    body: JSON.stringify({ 
+      key,
+      user: {
+        Identifier: "<user-id>",
+      }
+    })
   }).then(res => res.json())
 
   console.log(`value ${response.value}`)
